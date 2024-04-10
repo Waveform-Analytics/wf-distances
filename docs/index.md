@@ -9,7 +9,7 @@ toc: false
   flex-direction: column;
   align-items: center;
   font-family: var(--sans-serif);
-  margin: 4rem 0 8rem;
+  margin: 4rem 0 6rem;
   text-wrap: balance;
   text-align: center;
 }
@@ -38,78 +38,74 @@ toc: false
 
 @media (min-width: 640px) {
   .hero h1 {
-    font-size: 90px;
+    font-size: 75px;
   }
 }
 
 </style>
 
 <div class="hero">
-  <h1>Hello, Observable Framework</h1>
-  <h2>Welcome to your new project! Edit&nbsp;<code style="font-size: 90%;">docs/index.md</code> to change this page.</h2>
-  <a href="https://observablehq.com/framework/getting-started" target="_blank">Get started<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <h1>Offshore wind turbine noise effects</h1>
+  <h2>Impact distances for marine mammal injury and behavioral disturbance</h2>
 </div>
 
-<div class="grid grid-cols-2" style="grid-auto-rows: 504px;">
-  <div class="card">${
-    resize((width) => Plot.plot({
-      title: "Your awesomeness over time 🚀",
-      subtitle: "Up and to the right!",
-      width,
-      y: {grid: true, label: "Awesomeness"},
-      marks: [
-        Plot.ruleY([0]),
-        Plot.lineY(aapl, {x: "Date", y: "Close", tip: true})
-      ]
-    }))
-  }</div>
-  <div class="card">${
-    resize((width) => Plot.plot({
-      title: "How big are penguins, anyway? 🐧",
-      width,
-      grid: true,
-      x: {label: "Body mass (g)"},
-      y: {label: "Flipper length (mm)"},
-      color: {legend: true},
-      marks: [
-        Plot.linearRegressionY(penguins, {x: "body_mass_g", y: "flipper_length_mm", stroke: "species"}),
-        Plot.dot(penguins, {x: "body_mass_g", y: "flipper_length_mm", stroke: "species", tip: true})
-      ]
-    }))
-  }</div>
+<div class="grid grid-cols-2">
+  <div class="card">
+  ${clusterPlot1(distancesAll)}
+  
+  </div>
+  <div class="card"></div>
 </div>
 
 ```js
-const aapl = FileAttachment("aapl.csv").csv({typed: true});
-const penguins = FileAttachment("penguins.csv").csv({typed: true});
+const distances = aq.fromCSV(await FileAttachment('data/example-wf-impact-ranges.csv').text());
+const speciesInfo = aq.fromCSV(await FileAttachment("data/species-info.csv").text());
+const distancesAll = distances.join(speciesInfo,["species"])
 ```
 
----
+```js
+display(distancesAll)
 
-## Next steps
+```
 
-Here are some ideas of things you could try…
 
-<div class="grid grid-cols-4">
-  <div class="card">
-    Chart your own data using <a href="https://observablehq.com/framework/lib/plot"><code>Plot</code></a> and <a href="https://observablehq.com/framework/javascript/files"><code>FileAttachment</code></a>. Make it responsive using <a href="https://observablehq.com/framework/javascript/display#responsive-display"><code>resize</code></a>.
-  </div>
-  <div class="card">
-    Create a <a href="https://observablehq.com/framework/routing">new page</a> by adding a Markdown file (<code>whatever.md</code>) to the <code>docs</code> folder.
-  </div>
-  <div class="card">
-    Add a drop-down menu using <a href="https://observablehq.com/framework/javascript/inputs"><code>Inputs.select</code></a> and use it to filter the data shown in a chart.
-  </div>
-  <div class="card">
-    Write a <a href="https://observablehq.com/framework/loaders">data loader</a> that queries a local database or API, generating a data snapshot on build.
-  </div>
-  <div class="card">
-    Import a <a href="https://observablehq.com/framework/javascript/imports">recommended library</a> from npm, such as <a href="https://observablehq.com/framework/lib/leaflet">Leaflet</a>, <a href="https://observablehq.com/framework/lib/dot">GraphViz</a>, <a href="https://observablehq.com/framework/lib/tex">TeX</a>, or <a href="https://observablehq.com/framework/lib/duckdb">DuckDB</a>.
-  </div>
-  <div class="card">
-    Ask for help, or share your work or ideas, on the <a href="https://talk.observablehq.com/">Observable forum</a>.
-  </div>
-  <div class="card">
-    Visit <a href="https://github.com/observablehq/framework">Framework on GitHub</a> and give us a star. Or file an issue if you’ve found a bug!
-  </div>
-</div>
+```js
+function clusterPlot1(data) {
+  return Plot.plot({
+  title: "Behavioral disturbance distances",
+  subtitle: "Impact hammering only",
+  width:700,
+  y: {
+    grid: true, label: "Distance", 
+    tickFormat: d => `${d/1000} km`,
+     },
+  fx: {label: null, domain: ["LF", "MF", "HF", "PW"]},
+  color: {legend: true, domain: ["0dB", "6dB", "10dB"]},
+  marks: [
+    Plot.ruleY([0]),
+    Plot.dot(data.filter(d => d.season === "Summer"), 
+             Plot.dodgeX("middle", 
+                         {fx: "hearing_group", 
+                          y: "beh_NOAA-int", 
+                          fill: "attenuation",
+                          r: 3.5,
+                          channels: {
+                            species: "species",
+                            found: {value: "found", label: "Foundation"},
+                            hammerID: {value: "hammerID", label: "Hammer ID"},
+                          },
+                         tip: {
+                           format: {
+                             species: true,
+                             found: true,
+                             y: (d) => `${d/1000}km`,
+                             fx: false,
+                             fill: false,
+                           }
+                         }}
+                        ),
+            )
+  ]
+});
+}
+

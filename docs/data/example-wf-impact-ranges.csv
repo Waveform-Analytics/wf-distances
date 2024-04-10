@@ -1,0 +1,1249 @@
+species,attenuation,found,diam,season,hammerID,vibpen,scen,instSch,beh_NOAA-cont,beh_NOAA-int,beh_Wood,inj_pk-pts,inj_sel-pts-impulsive,inj_sel-pts-nonimpulsive,inj_sel-pts-both,beh_NOAA-both
+Harbor porpoise,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,10026,2649,19597,9,0,0,0,9807
+Harbor seal,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,11624,2900,1954,0,0,0,0,12420
+Long-finned pilot whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,11635,2945,1239,0,0,0,0,11229
+Harbor porpoise,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12039,3815,24361,120,0,0,0,12647
+Common Bottlenose dolphin offshore,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,11784,2968,909,0,0,0,0,12503
+Risso's dolphin,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12344,3118,1302,0,0,0,0,12598
+Minke whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12192,3312,15631,0,831,844,0,12592
+North Atlantic right whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13395,3398,3025,0,1168,1098,0,11944
+Atlantic white sided dolphin,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13095,3071,1242,0,0,0,0,12856
+Harbor porpoise,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,12472,3001,113141,9,0,0,0,13237
+Short beaked common dolphin,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13584,3568,1294,0,0,0,0,13016
+Sperm whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14168,3277,1216,0,0,0,0,13516
+Harbor seal,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13731,3731,3004,0,75,62,0,13414
+Humpback whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14015,3689,3523,0,1953,1808,0,12956
+Harp seal,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13754,3463,2214,0,0,0,0,13327
+Atlantic spotted dolphin,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12591,2886,1173,0,0,0,0,13560
+Fin whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14327,3827,3354,0,2687,2884,0,13019
+Gray seal,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12762,4033,2761,0,190,215,0,13625
+Sei whale,10dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,12960,3158,13970,1,1064,1244,0,14005
+Harbor seal,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,14234,2832,2243,0,0,0,0,13576
+Long-finned pilot whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13797,4239,1881,0,0,0,0,13856
+Common Bottlenose dolphin offshore,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,13600,4020,1724,0,0,0,0,14157
+Common Bottlenose dolphin offshore,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,14938,2901,1159,0,0,0,0,15086
+Risso's dolphin,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14395,4694,1919,0,0,0,0,15531
+Minke whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14588,4812,18128,0,1473,1535,0,15240
+North Atlantic right whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15131,4577,4998,0,1933,2258,0,16148
+North Atlantic right whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,15812,3632,3625,0,1259,1274,0,14869
+Atlantic white sided dolphin,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15033,4181,1926,0,0,0,0,15859
+Long-finned pilot whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,15593,3354,1184,0,0,0,0,15371
+Risso's dolphin,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16165,3453,1423,0,0,0,0,14254
+Atlantic white sided dolphin,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,15585,3164,1374,0,0,0,0,15038
+Short beaked common dolphin,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,14755,4663,2026,0,0,0,0,16051
+Short beaked common dolphin,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,14921,3511,1352,0,0,0,0,15340
+Harbor porpoise,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15889,5991,30071,377,0,0,0,16340
+Minke whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,13641,3650,23369,0,994,952,0,14346
+Sperm whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15235,4923,2075,0,0,0,0,14572
+Humpback whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15912,4845,5534,0,3342,3070,0,16299
+Sperm whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,17154,3817,1468,0,0,0,0,15586
+Humpback whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16392,3280,3869,0,2286,2420,0,14454
+Harp seal,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16479,3617,2346,0,0,0,0,15424
+Harp seal,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15958,5129,3704,0,45,50,0,16240
+Sei whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,16675,4317,18122,1,1319,1532,0,14485
+Atlantic spotted dolphin,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15188,4002,1690,0,0,0,0,15215
+Fin whale,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,16362,5000,4932,8,4307,4373,0,15321
+Sei whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,15545,3335,26356,1,1161,1173,0,16817
+Gray seal,6dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,16177,5840,4061,0,525,562,0,15466
+Gray seal,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,15701,4425,2793,0,199,211,0,15833
+Harbor porpoise,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16024,4844,114240,119,0,0,0,16443
+Fin whale,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16480,4108,3666,0,2935,2892,0,16492
+Harbor seal,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,15793,7131,5155,0,531,492,0,17198
+Atlantic spotted dolphin,10dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16798,3360,1147,0,0,0,0,17491
+Harbor seal,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16609,4960,3216,0,71,70,0,16354
+Common Bottlenose dolphin offshore,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,16657,4750,1729,0,0,0,0,18436
+Long-finned pilot whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18222,6503,4173,0,0,0,0,17048
+Common Bottlenose dolphin offshore,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,17982,6534,3364,0,0,0,0,17825
+North Atlantic right whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,19541,5425,4779,0,2526,2479,0,18535
+North Atlantic right whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,19874,8302,7672,0,4210,4528,0,17803
+Risso's dolphin,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18796,6060,4041,0,0,0,0,19335
+Minke whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18360,7590,24107,14,2972,3020,0,18262
+Risso's dolphin,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,19641,4635,2104,0,0,0,0,17966
+Short beaked common dolphin,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,19588,5597,1954,0,0,0,0,19442
+Atlantic white sided dolphin,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,17449,4950,2179,0,0,0,0,18842
+Atlantic white sided dolphin,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18971,7322,3705,0,0,0,0,18294
+Short beaked common dolphin,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18180,7701,3962,7,0,0,0,18396
+Long-finned pilot whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,17785,5132,2065,0,0,0,0,17812
+Minke whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,19246,5360,37791,0,1751,1912,0,18032
+Sperm whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,20059,5903,2062,0,0,0,0,17708
+Humpback whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,19110,5366,5528,0,3725,4037,0,20042
+Sperm whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,20019,7153,4136,0,0,0,0,18082
+Fin whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,19279,8191,8470,18,6874,6836,0,19323
+Humpback whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18255,7492,8374,9,5533,5541,0,19269
+Harp seal,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,19679,8204,6569,15,531,560,0,19427
+Sei whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,21392,5723,37088,1,1744,1692,0,18133
+Sei whale,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,20038,7661,23631,5,3335,3187,0,18813
+Atlantic spotted dolphin,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,18967,6042,2820,5,0,0,0,19493
+Fin whale,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,20501,5919,5715,8,5566,4510,0,18146
+Harp seal,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,18736,5591,3315,0,56,59,0,19441
+Gray seal,0dB,Jacket1,4m,Summer,2types,vib_and_impact,reg,4perday,20311,9378,6360,11,1588,1430,0,19953
+Gray seal,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,21208,6135,3989,0,542,520,0,21297
+Atlantic spotted dolphin,6dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,20254,4641,1513,0,0,0,0,21322
+Harbor porpoise,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,21068,5089,15731,379,0,0,0,20430
+Harbor porpoise,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,19042,4303,16458,355,0,0,0,20313
+Harbor porpoise,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,22607,8481,115714,373,0,0,0,20176
+Harbor porpoise,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,24361,4339,17495,434,0,0,0,21884
+Harbor seal,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,20610,8833,7029,0,546,521,0,20318
+Harbor seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,23251,5251,3135,0,0,0,0,19691
+Harbor porpoise,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,21380,4691,18005,304,0,0,0,22868
+Harbor seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,23627,5445,3792,0,0,0,0,21480
+Harbor seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,22689,5055,3452,0,0,0,0,22672
+Harbor porpoise,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,21980,6255,18486,539,0,0,0,22289
+Harbor porpoise,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,21560,6303,18630,464,0,0,0,23129
+Harbor seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,24905,5033,3424,0,0,0,0,23138
+Long-finned pilot whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,24466,5471,2309,0,0,0,0,22116
+Long-finned pilot whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,22877,5381,2353,0,0,0,0,24905
+Common Bottlenose dolphin offshore,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,26667,8344,3719,0,0,0,0,22955
+Risso's dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,23658,5158,2380,0,0,0,0,22948
+Harbor porpoise,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,25726,5462,22700,478,0,0,0,23905
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25763,5506,2302,0,0,0,0,24433
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,24274,5670,2319,0,0,0,0,25153
+North Atlantic right whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,23680,5397,5040,2,1595,1645,0,23923
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,25386,5068,1953,0,0,0,0,23215
+Minke whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,23735,5201,15034,0,1243,1262,0,24653
+Harbor porpoise,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,23026,6234,22045,423,0,0,0,24638
+Harbor seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,22955,6202,4078,0,81,78,0,25840
+Minke whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,24482,5299,14516,0,1227,1155,0,24227
+North Atlantic right whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25936,5402,5755,0,1640,1568,0,24135
+North Atlantic right whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,22595,10321,10209,0,5353,4557,0,25476
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,23212,5095,2121,0,0,0,0,26405
+Risso's dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,22900,4828,2338,0,0,0,0,24044
+Long-finned pilot whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,23684,5216,2417,0,0,0,0,24783
+Harbor seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,25284,6334,4267,0,228,204,0,24827
+Risso's dolphin,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,24967,10279,3992,0,0,0,0,24370
+Short beaked common dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,25378,5767,2256,0,0,0,0,24066
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,23911,5301,1830,0,0,0,0,26776
+Short beaked common dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25611,5118,2124,0,0,0,0,25144
+Long-finned pilot whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,25957,9160,4395,0,0,0,0,26171
+Long-finned pilot whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,26308,5215,2414,0,0,0,0,25024
+Risso's dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,24955,5540,2470,0,0,0,0,25713
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,24610,5318,2381,0,0,0,0,23595
+Sperm whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26182,5864,2220,0,0,0,0,26486
+Short beaked common dolphin,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,26479,8622,3981,6,0,0,0,23849
+Minke whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,24288,9882,93032,13,4338,4258,0,26993
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,25376,5631,2559,0,0,0,0,22744
+Atlantic white sided dolphin,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,24639,9596,3891,0,0,0,0,25469
+Harbor seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,25822,6376,5063,0,232,82,0,26362
+Sperm whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,26885,5823,2531,0,0,0,0,24917
+Humpback whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,25239,5788,5450,0,2135,1996,0,25967
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,26659,4769,2007,0,0,0,0,23715
+North Atlantic right whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,28004,4922,5683,0,2179,1979,0,24248
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,24285,5010,2176,0,0,0,0,25957
+North Atlantic right whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,26827,5366,5831,3,1989,1990,0,26362
+Fin whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,26115,5794,5476,0,2608,2375,0,26466
+Harp seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25302,5501,3700,0,0,0,0,25166
+Minke whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,23231,5573,16398,0,1663,1564,0,24758
+Humpback whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26594,5891,5394,0,2259,2127,0,26522
+Gray seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,25837,5828,3604,0,0,0,0,25583
+Gray seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,24842,6238,4044,0,0,0,0,25691
+Harp seal,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,23502,5577,4083,0,0,0,0,23795
+Sei whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,25995,9845,87970,47,3860,4302,0,26487
+Humpback whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,29633,9338,9644,9,8992,8059,0,25270
+Sperm whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,24298,10020,4241,0,0,0,0,25265
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,26203,5205,2385,0,0,0,0,26960
+Sei whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,26202,5429,17090,0,1460,1588,0,27088
+Fin whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26567,5801,5729,9,2511,2140,4,25747
+Harbor seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,28078,6789,4411,0,254,419,0,28152
+Minke whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,22426,5921,15299,0,1599,1543,0,23607
+Risso's dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27096,5796,2474,0,0,0,0,26644
+Harp seal,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,27649,9494,8029,16,570,614,0,27366
+Sei whale,10dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25840,5452,16351,0,1491,1551,0,27778
+Long-finned pilot whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25850,6618,2881,0,0,0,0,25303
+Fin whale,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,27070,10761,10186,17,9041,9763,0,27951
+Long-finned pilot whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,24874,6964,2987,0,0,0,0,27800
+Short beaked common dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,25744,5599,2352,0,0,0,0,27738
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,25301,4820,1933,0,0,0,0,27510
+Gray seal,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,28158,11081,8450,29,1581,1641,0,24950
+Sperm whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,26298,5443,2147,0,0,0,0,27516
+Short beaked common dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,26050,5559,2534,0,0,0,0,29091
+Risso's dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,25217,6161,2940,0,0,0,0,26530
+Gray seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,26598,5660,4129,0,223,0,0,25286
+Humpback whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27377,5567,5311,2,2442,2335,5,28459
+Harp seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,27417,5212,4059,4,5,4,0,27472
+Sperm whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27867,5952,2502,0,0,0,0,25911
+Harbor porpoise,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26645,6650,24639,1091,0,0,0,29041
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26383,7353,2860,0,0,0,0,25422
+Humpback whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,26008,5738,5633,0,2988,2325,91,26945
+Harbor porpoise,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,28199,8928,25978,838,0,0,0,25938
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,24820,6421,2686,0,0,0,0,26130
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27193,5280,2366,0,0,0,0,26323
+Minke whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26128,6460,18150,22,2319,1995,0,27085
+Gray seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,28254,5764,4352,0,0,0,0,25883
+Fin whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27897,5115,5165,0,3026,2357,0,26393
+Fin whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,28353,5218,5491,9,2865,2745,14,30423
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,28096,6505,3166,0,0,0,0,28709
+North Atlantic right whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,27492,6499,6397,2,2276,2172,0,26960
+Risso's dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,29944,6805,3090,4,0,0,0,26331
+North Atlantic right whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26903,6607,6796,0,2354,2044,0,27015
+Harp seal,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,28635,5664,3747,0,30,29,0,28071
+Sei whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,27965,5370,17869,0,1555,1508,0,28618
+Minke whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,26903,7548,17008,10,1957,2011,0,25951
+Sei whale,10dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27251,5254,16642,0,1681,1847,0,29024
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,26629,7049,2766,0,0,0,0,27492
+Long-finned pilot whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,27214,6829,3219,8,0,0,0,30394
+Harbor seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,30824,9541,5456,9,437,475,0,27412
+Short beaked common dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,27567,6619,2959,0,0,0,0,31302
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,26972,6759,2717,0,0,0,0,30370
+Short beaked common dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,29583,7199,3270,0,0,0,0,30551
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,27801,6891,2834,0,0,0,0,29400
+Harbor porpoise,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29299,7878,24960,987,0,0,0,28452
+Risso's dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,26558,6588,3235,5,0,0,0,27441
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,27136,6190,2743,0,0,0,0,27115
+Harbor seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,28999,8829,6147,0,469,435,0,29892
+Long-finned pilot whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,32832,6774,3293,9,0,0,0,27096
+Sperm whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,29354,6963,2836,0,0,0,0,27868
+Humpback whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,27281,7113,7633,0,2849,3094,6,29708
+North Atlantic right whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,27148,7171,6997,0,3076,2689,0,28908
+Sperm whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,30511,6972,3014,0,0,0,0,29143
+Atlantic spotted dolphin,0dB,Jacket1,4m,Winter,2types,vib_and_impact,reg,4perday,28714,10889,2766,5,0,0,0,28860
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,30099,5987,3068,0,0,0,0,26160
+Humpback whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,28635,7294,6719,0,3272,3202,82,27025
+Minke whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29027,6927,18419,21,2531,2421,0,27568
+Harp seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,30010,6955,4739,15,73,80,0,31197
+Harbor porpoise,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,30756,8259,29105,1021,0,0,0,30517
+Gray seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,28369,7755,5295,0,0,0,0,30707
+Fin whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,28495,6499,7011,23,3344,3220,14,32806
+North Atlantic right whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,28735,7182,6803,2,2920,3081,41,29592
+Harp seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,30682,7049,4955,29,30,29,0,27425
+Gray seal,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,29272,7497,5421,0,228,223,0,29565
+Harbor seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,30090,5996,3687,0,0,0,0,29235
+Fin whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,27489,6980,7057,0,3726,3343,4,30424
+Harbor seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,28882,8765,5890,58,647,707,0,30057
+Sei whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,29299,6866,18917,27,2195,2029,11,28503
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29422,6746,3601,0,0,0,0,30537
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,28194,6620,3077,0,0,0,0,27115
+Harbor porpoise,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,32162,5552,32557,172,0,0,0,31456
+Sei whale,6dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,29259,6482,21175,0,2420,2362,0,27949
+Risso's dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29070,6694,3659,5,0,0,0,28574
+Minke whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29737,7171,17901,10,2331,2390,59,31344
+Short beaked common dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,28802,6894,3466,0,0,0,0,28109
+Sperm whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,30238,6825,3183,0,0,0,0,30708
+Harbor seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,30822,8416,6623,0,663,696,0,28335
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,31070,6400,3009,0,0,0,0,29113
+Short beaked common dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29870,7135,3468,0,0,0,0,29212
+Humpback whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29649,7407,6542,0,3886,3525,133,29917
+Humpback whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,30192,6248,7113,2,3669,3315,386,30561
+Harp seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,30413,7032,4604,15,213,201,0,31197
+Sperm whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27465,7382,2934,0,0,0,0,32386
+Gray seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29429,6489,4770,0,360,409,0,31692
+Fin whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29193,7740,6445,10,4452,3526,107,28995
+Harp seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29202,6758,5086,28,27,28,0,31502
+Gray seal,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,29566,7732,5511,0,354,0,0,29468
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,27738,6552,2848,0,0,0,0,29116
+Fin whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,31870,7399,6832,0,4082,3695,121,29793
+Long-finned pilot whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,32976,7750,4427,0,0,0,0,32317
+Sei whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29206,7101,21422,0,2683,2414,22,30174
+Harbor porpoise,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,30399,5627,33516,205,0,0,0,32447
+Sei whale,6dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,31953,6244,20094,0,2421,2332,0,29174
+Long-finned pilot whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,30602,8667,4413,0,0,0,0,33849
+Harbor seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,31262,5591,3475,0,0,0,0,31561
+Risso's dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,32443,9057,4347,0,0,0,0,29282
+Harbor seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,34608,5908,4010,0,0,0,0,33563
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,33734,8573,4053,0,0,0,0,32391
+Harbor porpoise,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,32951,5419,45414,205,0,0,0,29919
+North Atlantic right whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,30145,8833,10051,0,4614,4110,421,31509
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,28562,9676,4006,0,0,0,0,31325
+Minke whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,33094,8769,21484,27,3607,3326,327,33477
+North Atlantic right whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,33119,8631,9562,9,4105,3511,254,31320
+Minke whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,30357,9951,24515,10,3355,3234,309,30077
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,35455,9856,4677,0,0,0,0,32887
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,31858,8908,4471,0,0,0,0,30599
+Risso's dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,32916,9071,4989,4,0,0,0,30488
+Long-finned pilot whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,33204,8809,5503,9,0,0,0,31529
+Short beaked common dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,33812,9133,4473,0,0,0,0,32899
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,31493,9232,3832,0,0,0,0,30372
+Risso's dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,35270,9052,4873,5,0,0,0,34666
+Harbor porpoise,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,34935,5542,48717,199,0,0,0,34907
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,34949,8820,4196,0,0,0,0,33443
+Sperm whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,36804,9658,5062,0,0,0,0,35949
+North Atlantic right whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,35011,9790,9044,125,4509,4709,749,31958
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,29904,8740,5193,0,0,0,0,31956
+Long-finned pilot whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,33954,8883,4961,8,0,0,0,32061
+Sperm whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,33329,9309,4817,0,0,0,0,35659
+Short beaked common dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,33483,10105,5003,0,0,0,0,29922
+Minke whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,33247,9575,23958,27,3753,3887,429,35754
+Humpback whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,33043,9271,10032,70,5176,4639,605,34274
+Gray seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,34711,11016,7028,0,617,569,0,33972
+Harbor seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,36358,5311,4076,0,0,0,0,34704
+Harp seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,32523,9938,7016,82,458,508,0,32679
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,35652,9359,3958,0,0,0,0,34808
+Humpback whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,32050,9278,9602,0,4911,4490,491,29689
+Harp seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,31569,11231,7460,27,537,457,0,34832
+Fin whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,31864,8444,10174,35,4699,4895,586,36114
+North Atlantic right whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,31728,8798,9539,9,4928,4382,643,34923
+Fin whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,33656,10175,9648,61,5397,4861,448,33303
+Gray seal,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,31603,10413,7663,0,636,614,0,35156
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,33828,8794,4794,0,0,0,0,32747
+Sei whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,2perday,35089,9453,27003,69,3849,3515,298,34707
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,34545,5439,2041,0,0,0,0,33816
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,33328,9322,5203,0,0,0,0,31541
+Risso's dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,36951,8753,4887,5,0,0,0,37940
+Minke whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,34266,10114,24778,10,3915,4047,411,35574
+Sei whale,0dB,WTGmono1,12m,Summer,2types,vib_and_impact,reg,1perday,32730,9602,25590,0,3479,3658,89,36545
+North Atlantic right whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,36004,5860,5563,0,1898,1750,0,33515
+Short beaked common dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,35110,9148,5097,0,0,0,0,34034
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,37652,9629,4407,0,0,0,0,35816
+Sperm whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,34976,9474,5086,0,0,0,0,35973
+Gray seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,32004,11195,7410,0,1031,619,0,34074
+Harp seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,36665,9693,7949,84,861,880,0,35078
+Humpback whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,33475,10090,9250,17,5719,5404,844,36906
+Risso's dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,33717,5917,2200,0,0,0,0,35547
+Sperm whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,33198,10241,5596,0,0,0,0,33839
+North Atlantic right whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,35628,5900,6035,3,1640,1567,0,37125
+Fin whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,37523,9788,9868,68,5807,5618,992,35282
+Short beaked common dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,32251,11070,5664,0,0,0,0,32720
+Long-finned pilot whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,37158,6571,2290,0,0,0,0,33218
+Harp seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,36178,10058,7200,29,766,787,0,33442
+Gray seal,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,39077,10463,7670,0,851,772,0,35312
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,31637,5990,2238,0,0,0,0,35398
+Sei whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,2perday,34262,8952,23745,79,3892,3872,705,37639
+Fin whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,35495,10796,9078,57,6031,5327,870,34401
+Minke whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,34437,6506,25117,0,1432,1416,0,36395
+Humpback whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,33245,9862,10706,2,5146,4913,914,38697
+Harbor porpoise,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,37917,6868,50573,500,0,0,0,37118
+Sei whale,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,35610,9645,24346,1,4186,3843,326,37463
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Summer,2types,vib_and_impact,diff,1perday,36371,9118,3888,0,0,0,0,34716
+Gray seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,37143,6620,3895,0,0,0,0,36213
+Sperm whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,34297,5545,2377,0,0,0,0,33679
+Harp seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,35678,6204,4158,0,0,0,0,34175
+Humpback whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,33209,6070,6416,0,2295,2334,0,34295
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,35309,5750,2084,0,0,0,0,33689
+Fin whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,37269,6240,6299,10,3006,2474,4,34116
+Short beaked common dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,33778,6062,2187,0,0,0,0,35964
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,37739,5169,2406,0,0,0,0,35905
+Long-finned pilot whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,37577,6302,2185,0,0,0,0,36954
+Risso's dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,37970,5926,2546,0,0,0,0,35203
+Harbor seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,37335,8359,4839,0,75,75,0,32887
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,35256,5949,2206,0,0,0,0,37647
+Harp seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,35437,7159,4179,0,0,0,0,38905
+Sei whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,36318,5817,26343,0,1560,1490,0,38104
+Harbor seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,38497,7283,4951,0,238,74,0,38080
+Minke whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,38120,7141,26804,0,1468,1433,0,36282
+Harbor porpoise,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,36662,6215,86684,462,0,0,0,35867
+North Atlantic right whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,37660,5911,5779,0,2120,2099,0,39984
+Harbor porpoise,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,34433,7617,48776,509,0,0,0,39020
+Risso's dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,36360,4875,2682,0,0,0,0,39742
+Gray seal,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,37953,6579,4217,0,0,0,0,38332
+Sperm whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,40223,6720,2321,0,0,0,0,36786
+North Atlantic right whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,38636,6450,6216,2,2204,2113,0,38839
+Humpback whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,39255,6704,6215,0,2185,1975,0,40330
+Long-finned pilot whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,38553,5773,2527,0,0,0,0,37075
+Short beaked common dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,36003,5642,2253,0,0,0,0,39501
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,35203,6270,2535,0,0,0,0,37190
+Fin whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,41201,6652,6437,0,2381,2596,0,36317
+Minke whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,38915,6147,27012,0,1851,1769,0,38772
+Humpback whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,38746,6279,6649,0,3213,3099,89,37402
+Gray seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,36747,6234,5078,0,245,217,0,37049
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,39656,5725,2192,0,0,0,0,34798
+Sperm whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,38380,6311,2870,0,0,0,0,39196
+Fin whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,36640,5702,6274,9,3413,2935,14,38113
+Short beaked common dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,41245,5745,2901,0,0,0,0,39268
+Sei whale,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,41440,5849,25923,0,1608,1551,0,39682
+Harp seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,40178,5823,4609,4,5,4,0,42603
+Harbor porpoise,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,39143,8105,82549,466,0,0,0,38659
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,36639,5460,2244,0,0,0,0,41786
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,35480,5883,2264,0,0,0,0,39329
+Long-finned pilot whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,36636,5916,2690,0,0,0,0,36138
+Harbor seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,41045,7721,5064,0,227,222,0,39171
+Risso's dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,40589,6027,2392,0,0,0,0,40705
+Harbor seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,39142,7715,5166,0,283,193,0,38383
+Sei whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,37381,5623,28876,0,1746,1730,0,39131
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,39181,6333,2431,0,0,0,0,34277
+Minke whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,43114,6457,27939,0,1828,1753,0,41403
+Sperm whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,39209,6393,2984,0,0,0,0,39461
+Humpback whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,37328,6829,6287,2,3166,2337,6,40884
+Harp seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,41356,6960,4776,0,30,27,0,40473
+Short beaked common dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,38968,6098,2788,0,0,0,0,40116
+Gray seal,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,42682,7142,4877,0,0,0,0,39178
+Fin whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,44827,6718,6762,0,3833,3081,0,40599
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,44908,5190,2276,0,0,0,0,42005
+Sei whale,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,45330,5877,30678,0,1919,2082,0,43540
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,46847,5746,2156,0,0,0,0,44821
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,45505,6906,2651,0,0,0,0,40558
+North Atlantic right whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,44208,7935,8192,0,2939,2730,0,44362
+Risso's dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,48484,7802,3360,0,0,0,0,41407
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,47920,8310,3532,0,0,0,0,42613
+North Atlantic right whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,47002,8506,8114,0,3769,3229,0,45700
+North Atlantic right whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,43224,8063,8658,3,2814,2703,0,41030
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,45706,8043,3228,0,0,0,0,42669
+Risso's dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,46391,7878,3872,5,0,0,0,48574
+Short beaked common dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,43957,8206,3288,0,0,0,0,42561
+Long-finned pilot whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,48921,7236,3154,0,0,0,0,46381
+Harp seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,47361,9499,5719,14,175,147,0,43361
+Minke whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,45345,8417,31365,21,2291,2303,0,41552
+North Atlantic right whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,46451,8675,8817,3,3591,3450,44,44775
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,52555,7230,3407,0,0,0,0,50958
+Sperm whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,49612,8317,3346,0,0,0,0,45227
+Short beaked common dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,44973,7814,3510,0,0,0,0,46554
+Long-finned pilot whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,45970,8098,2924,8,0,0,0,50581
+Humpback whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,43901,7810,8469,0,3431,3412,91,45928
+Gray seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,43920,8007,5714,0,240,241,0,46709
+Fin whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,45891,9144,9307,24,3817,3404,15,47705
+Harp seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,42641,8337,5713,17,245,217,0,48429
+Minke whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,48972,8362,34011,21,2766,2904,0,47572
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,47647,7766,2897,0,0,0,0,45395
+Sperm whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,45445,8232,3780,0,0,0,0,47467
+Risso's dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,45564,8356,3377,4,0,0,0,49194
+Gray seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,44750,9122,6498,0,404,250,0,46177
+Harp seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,44003,8025,5305,0,36,37,0,47598
+Fin whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,48801,7822,8383,10,5492,4658,203,49050
+Humpback whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,46254,8997,8137,0,4672,3955,129,50731
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,48906,8499,3312,0,0,0,0,46123
+Long-finned pilot whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,49231,7910,3384,0,0,0,0,50533
+Minke whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,46903,8218,31804,10,2172,2019,0,47847
+Sei whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,43864,7842,31773,26,2599,2362,11,45445
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,48946,8683,3214,0,0,0,0,49073
+Risso's dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,45551,7898,4057,5,0,0,0,46338
+Short beaked common dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,46856,8830,3487,0,0,0,0,46758
+Long-finned pilot whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,49476,8009,3724,8,0,0,0,43588
+Gray seal,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,48356,9091,6051,0,0,0,0,51502
+Fin whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,52049,8945,9086,0,4207,3723,4,49771
+Humpback whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,48300,8973,8537,0,3220,3210,5,48950
+Sei whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,48462,7928,36308,0,2848,3052,20,51642
+Sperm whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,48327,8856,3562,0,0,0,0,48062
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,49253,7826,3368,0,0,0,0,50970
+Minke whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,48881,8680,33400,9,2667,2767,51,49814
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,54494,7056,2999,0,0,0,0,52985
+Harp seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,50191,9496,6445,30,33,28,0,49896
+Fin whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,49867,8318,8919,0,5247,4038,125,45078
+Short beaked common dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,48008,7517,3755,0,0,0,0,46381
+Sei whale,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,49087,7965,34059,0,2267,2496,0,49355
+Gray seal,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,50909,8298,6655,0,564,0,0,53488
+Humpback whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,50594,9552,8506,2,4527,4071,520,50744
+Sperm whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,50707,8836,4054,0,0,0,0,50101
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,48960,6864,3036,0,0,0,0,51483
+Harbor porpoise,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,52006,11163,107240,918,0,0,0,52214
+Sei whale,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,50370,8749,34578,0,3058,2825,0,50812
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,51907,6732,2825,0,0,0,0,52190
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,51274,6475,3109,0,0,0,0,48463
+Harbor porpoise,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,48622,11729,109267,894,0,0,0,49897
+Harbor seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,57213,10786,9406,60,735,666,0,50584
+Harbor porpoise,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,51761,11207,113444,795,0,0,0,48728
+Harbor porpoise,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,57897,10954,104888,814,0,0,0,61106
+Harbor seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,55617,11007,8613,0,793,812,0,58335
+Harbor seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,56255,10293,8507,8,459,622,0,59265
+Harbor seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,71068,11855,8832,0,489,446,0,60308
+North Atlantic right whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,72130,11900,11925,119,5533,4793,958,78276
+Long-finned pilot whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,67114,11623,5592,8,0,0,0,71559
+Risso's dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,73059,11634,5517,5,0,0,0,75155
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,69446,10495,5190,0,0,0,0,75367
+North Atlantic right whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,72614,14321,13436,8,5729,5062,631,73918
+Long-finned pilot whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,73447,15015,5837,8,0,0,0,64671
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,72217,12290,5503,0,0,0,0,75282
+Minke whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,74846,12406,47990,29,5130,4702,501,79140
+Short beaked common dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,78379,12180,5825,0,0,0,0,82450
+Risso's dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,72964,13526,5619,5,0,0,0,75416
+Humpback whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,74022,12873,12936,16,7922,6633,1075,78887
+Harp seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,76565,13020,9351,79,906,907,0,75545
+Sperm whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,79532,13072,6003,0,0,0,0,72065
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,69140,11596,5324,0,0,0,0,77444
+Gray seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,77895,13311,9887,0,972,943,0,72873
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,77113,12831,5729,0,0,0,0,79924
+Fin whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,73933,12844,13763,69,7214,6939,1100,76211
+Minke whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,80304,12615,60009,11,5061,4595,418,81687
+Sei whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,74297,13355,56091,68,4613,4864,744,77107
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,2perday,77122,12240,4172,0,0,0,0,75209
+Humpback whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,77654,14385,13966,2,7835,6168,921,78772
+Sperm whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,71519,12244,5875,0,0,0,0,76640
+Short beaked common dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,78483,13120,6207,0,0,0,0,74406
+Gray seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,74027,14156,9546,0,752,787,0,71979
+Harp seal,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,73667,14003,9106,28,1026,839,0,80037
+Fin whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,79540,12964,13760,58,7913,6578,1265,90267
+Sei whale,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,84476,15484,58791,1,5433,5166,503,89008
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Winter,2types,vib_and_impact,diff,1perday,79650,14081,4195,0,0,0,0,81489
+Long-finned pilot whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,86023,12934,4780,0,0,0,0,90799
+North Atlantic right whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,97303,12041,13047,0,5042,4558,431,82624
+Long-finned pilot whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,91811,12922,5414,0,0,0,0,94370
+North Atlantic right whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,90801,13396,13359,8,4693,4806,222,94003
+Risso's dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,96130,11307,4588,0,0,0,0,94140
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,92538,12461,5444,0,0,0,0,89951
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,97191,11046,5008,0,0,0,0,103306
+Minke whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,89359,12776,45974,31,3948,3862,339,98400
+Risso's dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,96875,13306,5863,4,0,0,0,94124
+Sperm whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,91822,12859,5539,0,0,0,0,109154
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,92570,12183,5670,0,0,0,0,96850
+Short beaked common dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,90757,12486,5766,0,0,0,0,104411
+Humpback whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,101398,13390,13087,78,6101,5921,738,107954
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,93048,11527,4346,0,0,0,0,97401
+Fin whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,93150,12752,12001,35,6631,5172,563,87399
+Gray seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,96270,13769,9022,0,587,593,0,93995
+Harp seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,88195,13147,9312,82,715,631,0,97300
+Minke whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,103131,13305,44952,10,4353,3926,81,93838
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,102057,12057,4890,0,0,0,0,103923
+Harp seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,98495,14058,8599,36,738,500,0,95834
+Sperm whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,105022,13765,5415,0,0,0,0,94036
+Sei whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,2perday,102715,12423,44252,25,4206,3895,115,98340
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,98365,12349,3814,0,0,0,0,99666
+Humpback whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,95460,14591,13379,0,5609,5238,462,102815
+Gray seal,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,110060,13591,8956,0,630,628,0,108499
+Fin whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,93375,12643,12964,63,6554,5873,463,98550
+Short beaked common dolphin,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,105578,12017,5103,0,0,0,0,99604
+Sei whale,0dB,WTGmono1,12m,Winter,2types,vib_and_impact,reg,1perday,105615,12325,52965,0,4490,4132,97,107917
+Fin whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,8480,8411,17,7147,7691,,
+Fin whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4776,4894,7,4365,4417,,
+Fin whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3770,3411,0,2898,2627,,
+Fin whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,10518,10275,18,9353,10631,,
+Fin whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5921,5533,7,4858,5317,,
+Fin whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,4073,3863,0,2916,2411,,
+Fin whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4167,4665,62,3801,3395,,
+Fin whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3168,2986,27,2439,2376,,
+Fin whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2293,2319,0,1567,1602,,
+Fin whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4056,4188,72,3648,3077,,
+Fin whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2998,2887,0,2485,2281,,
+Fin whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2117,2045,0,1744,1868,,
+Fin whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9567,10100,83,9134,9178,,
+Fin whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5601,6541,5,6131,6686,,
+Fin whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4426,3767,6,4305,4615,,
+Fin whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4273,4203,68,3458,3462,,
+Fin whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2888,2792,0,2165,2342,,
+Fin whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2044,2014,0,1568,1481,,
+Fin whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4746,4711,71,3956,3707,,
+Fin whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2802,2578,0,2337,2682,,
+Fin whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2057,2155,0,1856,1870,,
+Fin whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,10820,11828,76,12844,13056,,
+Fin whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6092,6295,6,7514,7043,,
+Fin whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,4283,4184,5,5533,4980,,
+Fin whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,8827,9411,59,4344,4784,,
+Fin whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6678,6923,0,3184,3218,,
+Fin whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5460,6463,0,2443,2255,,
+Fin whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,10119,10097,32,4938,4348,,
+Fin whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,7188,6465,24,2825,2878,,
+Fin whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5753,5852,9,2408,2247,,
+Fin whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13899,14600,62,5878,5798,,
+Fin whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8998,9038,0,3796,3752,,
+Fin whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6620,7064,0,2490,2278,,
+Fin whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,13842,12900,33,5459,5796,,
+Fin whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8501,9411,23,3321,3855,,
+Fin whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5640,6126,9,2513,2479,,
+Fin whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,11197,9670,54,5126,5629,,
+Fin whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,8006,7949,0,4158,4180,,
+Fin whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6044,5843,0,2697,2427,,
+Fin whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,10859,9898,67,5370,5504,,
+Fin whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6970,7481,10,3577,3520,,
+Fin whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5945,5555,8,2976,2835,,
+Fin whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13716,15389,54,6726,6914,,
+Fin whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8334,8705,0,4374,4186,,
+Fin whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6579,6994,0,3181,3056,,
+Fin whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13711,14550,64,7490,6943,,
+Fin whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8839,7832,10,4087,4474,,
+Fin whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7276,6902,9,3040,3054,,
+Minke whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,8290,25031,11,3069,3045,,
+Minke whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4443,19556,0,1622,1513,,
+Minke whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3173,13704,0,845,859,,
+Minke whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9931,83624,13,4352,4340,,
+Minke whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5425,36795,0,1951,1543,,
+Minke whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3550,23050,0,1041,1041,,
+Minke whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4281,10611,12,2260,2135,,
+Minke whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2886,8622,0,1382,1361,,
+Minke whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2144,6841,0,869,842,,
+Minke whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3955,10154,29,2375,2216,,
+Minke whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2895,7788,6,1458,1329,,
+Minke whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2238,7486,7,890,823,,
+Minke whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9027,28105,25,5256,5412,,
+Minke whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5284,20479,17,3509,3136,,
+Minke whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3661,17041,4,2473,2242,,
+Minke whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4133,40105,11,2179,2208,,
+Minke whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2628,12410,0,1309,1265,,
+Minke whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,1964,8791,0,883,864,,
+Minke whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4263,38130,30,1973,2001,,
+Minke whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2613,14225,7,1395,1382,,
+Minke whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2023,8782,7,841,901,,
+Minke whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,10810,79862,24,7349,6627,,
+Minke whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6119,56006,17,4083,3925,,
+Minke whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3558,32275,4,2882,2613,,
+Minke whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9855,25351,10,3505,3196,,
+Minke whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6820,19564,9,1927,1956,,
+Minke whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5530,15257,0,1133,1227,,
+Minke whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9402,26135,29,3360,3273,,
+Minke whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,7312,17662,22,2021,1982,,
+Minke whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5634,15333,0,1270,1285,,
+Minke whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13525,44540,10,3862,4025,,
+Minke whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8955,31295,10,2157,2035,,
+Minke whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6228,27793,0,1478,1426,,
+Minke whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12693,46303,30,4274,3874,,
+Minke whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8369,34314,21,2347,2463,,
+Minke whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6055,23637,0,1441,1476,,
+Minke whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,10033,25290,10,3709,4052,,
+Minke whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6748,19074,10,2038,2640,,
+Minke whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5139,15555,0,1489,1597,,
+Minke whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,10386,24141,28,3343,3577,,
+Minke whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6749,18286,22,2298,2176,,
+Minke whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5533,15542,0,1530,1482,,
+Minke whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13481,59602,10,4546,4729,,
+Minke whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8819,35031,9,2674,2811,,
+Minke whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6894,26102,0,1949,1866,,
+Minke whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,12982,59597,28,5023,4729,,
+Minke whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8161,32368,20,2512,2835,,
+Minke whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6385,25219,0,1677,1704,,
+Humpback whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,8105,8366,9,6303,5550,,
+Humpback whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,5036,4963,0,3167,3052,,
+Humpback whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3313,3341,0,2082,1861,,
+Humpback whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9598,9656,9,8211,8406,,
+Humpback whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5279,5834,0,3957,4443,,
+Humpback whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3795,3737,0,2286,2291,,
+Humpback whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4366,3905,41,3054,2917,,
+Humpback whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2991,3091,0,2038,2175,,
+Humpback whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2330,2314,0,1408,1375,,
+Humpback whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3976,4643,40,3338,3198,,
+Humpback whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3086,2791,14,2170,2068,,
+Humpback whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2308,2063,13,1521,1458,,
+Humpback whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9512,10264,65,7631,6794,,
+Humpback whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,6262,5522,39,4931,4794,,
+Humpback whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4023,4374,7,3642,3658,,
+Humpback whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4193,4347,43,3215,3179,,
+Humpback whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2775,2872,0,2024,1807,,
+Humpback whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2059,2099,0,1324,1285,,
+Humpback whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4419,4327,44,3025,3076,,
+Humpback whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2804,2993,12,1931,2143,,
+Humpback whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1818,2115,13,1494,1448,,
+Humpback whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12756,12977,76,12886,12554,,
+Humpback whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5803,6453,38,6533,5809,,
+Humpback whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3992,4261,7,4641,4254,,
+Humpback whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,10520,9729,0,4294,4162,,
+Humpback whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6935,7082,0,2972,2809,,
+Humpback whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5397,5181,0,1901,1948,,
+Humpback whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,10282,9345,68,4540,4754,,
+Humpback whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6511,7239,0,2728,3036,,
+Humpback whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5568,5651,0,1969,2158,,
+Humpback whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,12831,13992,0,4941,5008,,
+Humpback whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8257,8159,0,3198,3125,,
+Humpback whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5981,7204,0,2215,2056,,
+Humpback whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,13059,13079,75,5248,5401,,
+Humpback whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,7747,8971,0,3564,3808,,
+Humpback whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6609,6022,0,2021,2300,,
+Humpback whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9893,10854,2,5002,5399,,
+Humpback whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7434,7118,2,3449,3371,,
+Humpback whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5516,5682,2,2277,2296,,
+Humpback whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9164,9455,15,5376,5287,,
+Humpback whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,7109,7049,0,3402,3405,,
+Humpback whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5391,5663,0,2520,2275,,
+Humpback whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13514,12765,2,6310,6446,,
+Humpback whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8671,8685,2,3895,3975,,
+Humpback whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,7285,6846,2,2620,2412,,
+Humpback whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13860,14198,18,7610,6507,,
+Humpback whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,9077,7970,0,3976,4292,,
+Humpback whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6272,5591,0,2692,2817,,
+North Atlantic right whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6951,7491,0,4591,4512,,
+North Atlantic right whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4775,4994,0,2009,2076,,
+North Atlantic right whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3491,3248,0,1237,1201,,
+North Atlantic right whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9740,9240,0,5696,5372,,
+North Atlantic right whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5536,5355,0,2435,2364,,
+North Atlantic right whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3743,3448,0,1258,1330,,
+North Atlantic right whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3872,4002,14,2245,2381,,
+North Atlantic right whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2813,2927,14,1716,1521,,
+North Atlantic right whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2286,2127,14,1125,1179,,
+North Atlantic right whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3983,4126,6,2408,2392,,
+North Atlantic right whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3047,2815,5,1597,1740,,
+North Atlantic right whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2208,2051,6,1303,1245,,
+North Atlantic right whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,8479,9376,59,6349,5559,,
+North Atlantic right whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5069,5990,7,4129,3777,,
+North Atlantic right whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3705,3908,7,3120,2874,,
+North Atlantic right whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,3947,4315,13,2430,2415,,
+North Atlantic right whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2788,2690,14,1595,1765,,
+North Atlantic right whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2016,1960,14,1190,1177,,
+North Atlantic right whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4510,4510,6,2704,2560,,
+North Atlantic right whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2709,2561,6,1667,1601,,
+North Atlantic right whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1948,2048,6,1215,1166,,
+North Atlantic right whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12292,11680,66,8438,8134,,
+North Atlantic right whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6189,5593,7,5100,4873,,
+North Atlantic right whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3531,3849,7,3584,3560,,
+North Atlantic right whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9181,9597,8,3746,3707,,
+North Atlantic right whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6786,6674,3,2009,2102,,
+North Atlantic right whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5601,5579,2,1607,1559,,
+North Atlantic right whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9915,9786,0,3708,3598,,
+North Atlantic right whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6824,6507,0,2339,2302,,
+North Atlantic right whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5169,5426,0,1755,1559,,
+North Atlantic right whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,12620,11719,8,4616,4747,,
+North Atlantic right whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8234,7531,3,2756,2761,,
+North Atlantic right whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5746,5547,3,1529,1615,,
+North Atlantic right whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,11685,13038,0,5235,5121,,
+North Atlantic right whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8029,7718,0,2550,2695,,
+North Atlantic right whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6215,5394,0,1655,1853,,
+North Atlantic right whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9373,10264,8,4543,4088,,
+North Atlantic right whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6274,6967,2,2947,2631,,
+North Atlantic right whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5592,4865,3,1870,2164,,
+North Atlantic right whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9285,8455,117,4079,4248,,
+North Atlantic right whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,7210,6916,0,2685,2915,,
+North Atlantic right whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5345,5649,0,1733,2001,,
+North Atlantic right whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,11913,14370,8,5253,5614,,
+North Atlantic right whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8183,7443,3,3127,3423,,
+North Atlantic right whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5753,6048,3,1951,2194,,
+North Atlantic right whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,11962,12571,118,5461,5434,,
+North Atlantic right whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7422,6917,0,3269,3228,,
+North Atlantic right whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6566,6300,0,2223,2113,,
+Sei whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6664,26359,5,3344,3265,,
+Sei whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4535,18485,1,1549,1526,,
+Sei whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3140,13431,1,1087,1122,,
+Sei whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9230,85945,41,4174,3939,,
+Sei whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,4780,36666,1,1849,1648,,
+Sei whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3724,22587,1,1150,1140,,
+Sei whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4649,12410,19,2346,2215,,
+Sei whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2910,9322,8,1416,1338,,
+Sei whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2212,7341,8,945,991,,
+Sei whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4153,11379,54,2337,2418,,
+Sei whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2944,8500,13,1533,1484,,
+Sei whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2253,6758,10,1002,985,,
+Sei whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,8991,34341,80,5541,5938,,
+Sei whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,6330,22004,40,3538,3542,,
+Sei whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4224,19149,7,2441,2722,,
+Sei whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,3938,42427,19,2494,2259,,
+Sei whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2582,13035,8,1489,1423,,
+Sei whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2111,8815,8,928,998,,
+Sei whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4213,42532,53,2216,2322,,
+Sei whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2673,13219,14,1414,1367,,
+Sei whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1997,8499,9,970,903,,
+Sei whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12711,86185,107,8130,7638,,
+Sei whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6740,59774,39,3941,4346,,
+Sei whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3679,33741,8,2899,2809,,
+Sei whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,10418,24490,0,3984,4037,,
+Sei whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7521,19064,0,2277,2473,,
+Sei whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6044,14953,0,1590,1484,,
+Sei whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9208,24251,71,3923,3551,,
+Sei whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6761,19667,24,2348,2109,,
+Sei whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5944,16948,0,1469,1425,,
+Sei whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,14587,46459,0,4267,4439,,
+Sei whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8555,34655,0,2360,2614,,
+Sei whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6323,25041,0,1703,1642,,
+Sei whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12817,48132,26,4186,3998,,
+Sei whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,7054,31858,27,2366,2508,,
+Sei whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6169,25613,0,1499,1534,,
+Sei whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9495,26663,1,3847,3797,,
+Sei whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6790,21190,0,2432,2444,,
+Sei whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5418,16829,0,1869,1666,,
+Sei whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,10575,26205,77,3738,3905,,
+Sei whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6865,19445,0,2489,2389,,
+Sei whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5466,16230,0,1580,1511,,
+Sei whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,14487,59580,1,4887,5082,,
+Sei whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8264,38342,0,2869,2930,,
+Sei whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5863,33078,0,2120,2037,,
+Sei whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,14048,55966,63,4973,4790,,
+Sei whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8224,33787,0,2811,2886,,
+Sei whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5938,28246,0,1688,1502,,
+Atlantic white sided dolphin,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,7134,3647,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4457,2117,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3114,1281,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,8610,4151,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5166,1945,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3274,1297,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4001,2819,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2938,2032,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2261,1518,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4027,3127,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2949,1870,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2187,1662,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9043,5920,7,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5533,3126,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3675,2300,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4039,2803,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2914,1775,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2205,1344,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4275,2545,0,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2534,1816,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2062,1251,0,0,0,,
+Atlantic white sided dolphin,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,11165,5410,8,0,0,,
+Atlantic white sided dolphin,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6449,3594,0,0,0,,
+Atlantic white sided dolphin,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3981,2583,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,8641,4541,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7194,3022,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5739,2066,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,10405,4884,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6935,3305,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5251,2300,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,11740,5342,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8596,3310,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6567,2221,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12472,5202,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8406,3070,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6155,2366,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9329,4973,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7266,3598,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,4861,2220,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9221,5032,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6429,3342,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,4964,2129,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13136,6146,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8371,4047,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6160,2667,0,0,0,,
+Atlantic white sided dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13634,5970,0,0,0,,
+Atlantic white sided dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7650,3538,0,0,0,,
+Atlantic white sided dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5806,2806,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6301,2812,5,0,0,,
+Atlantic spotted dolphin,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4101,1675,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3172,1199,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,11025,2952,5,0,0,,
+Atlantic spotted dolphin,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,4414,1569,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3186,1061,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3616,2948,2,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2669,2039,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2023,1497,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3595,2885,8,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2548,1901,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,1956,1592,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,7758,4669,0,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4496,0,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4533,0,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4199,2436,2,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2558,1818,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,1890,1289,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3970,2365,7,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2434,1748,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1791,1354,0,0,0,,
+Atlantic spotted dolphin,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,8717,4528,0,0,0,,
+Atlantic spotted dolphin,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,4173,0,0,0,0,,
+Atlantic spotted dolphin,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,4576,0,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7635,4276,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6106,3095,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5066,2253,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9380,3991,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6628,2646,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5096,2035,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,11921,4070,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,7007,2971,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5283,2296,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,11617,4020,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,7061,2646,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5903,2082,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,8607,4113,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6918,3082,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5039,2199,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9204,4242,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6333,3000,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,4963,2061,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13181,3866,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6306,3127,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5208,1991,0,0,0,,
+Atlantic spotted dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,12251,3677,0,0,0,,
+Atlantic spotted dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7005,2976,0,0,0,,
+Atlantic spotted dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5554,2145,0,0,0,,
+Short beaked common dolphin,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,7000,3732,8,0,0,,
+Short beaked common dolphin,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4578,2093,0,0,0,,
+Short beaked common dolphin,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3080,1287,0,0,0,,
+Short beaked common dolphin,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,8980,3975,7,0,0,,
+Short beaked common dolphin,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5965,2069,0,0,0,,
+Short beaked common dolphin,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3354,1375,0,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3989,2960,6,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2842,1833,5,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2223,1474,5,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4105,2993,0,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2769,2048,0,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2277,1569,0,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9267,5841,5,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5475,3048,5,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3890,2461,0,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4278,2452,6,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2564,1756,6,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,1899,1310,5,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4263,2690,0,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2762,1790,0,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2004,1482,0,0,0,,
+Short beaked common dolphin,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,11888,5819,5,0,0,,
+Short beaked common dolphin,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5983,3557,5,0,0,,
+Short beaked common dolphin,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3642,2895,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,10426,4895,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7129,3180,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5626,2375,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9417,4561,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,7118,3312,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5079,2360,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13591,5456,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8786,3154,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6340,2625,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12569,4967,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8429,3394,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6019,2272,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,11162,5550,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7082,3616,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5792,2477,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9973,5202,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,7261,3417,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5886,2339,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13371,5850,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8200,3426,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6720,2890,0,0,0,,
+Short beaked common dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,12160,6022,0,0,0,,
+Short beaked common dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8095,3652,0,0,0,,
+Short beaked common dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6172,2538,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6517,3395,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4565,1705,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,2872,1149,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,8350,3396,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5211,1597,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3142,1202,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3848,2724,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2265,1676,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,1821,1230,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3303,2597,5,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2690,1775,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,1900,1290,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,7964,4917,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4635,2554,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3196,2021,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,3610,2317,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2385,1429,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,1575,1169,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3546,2311,4,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2373,1553,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1757,1176,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,11020,5416,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5189,3084,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3202,2111,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9261,4444,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6176,2601,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,4954,2025,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9017,4525,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6020,2749,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5113,1980,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,12104,5199,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8087,3164,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,4968,2042,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,10956,4615,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,7550,2983,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5726,2025,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9285,4440,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6310,3049,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5072,2161,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9534,4571,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6242,3071,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,4730,2129,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,12316,5382,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,7328,3493,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5666,2036,0,0,0,,
+Common Bottlenose dolphin offshore,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,10954,5223,0,0,0,,
+Common Bottlenose dolphin offshore,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7394,3272,0,0,0,,
+Common Bottlenose dolphin offshore,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5493,2161,0,0,0,,
+Risso's dolphin,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6800,3888,0,0,0,,
+Risso's dolphin,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4661,1734,0,0,0,,
+Risso's dolphin,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,2951,1366,0,0,0,,
+Risso's dolphin,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9298,4374,0,0,0,,
+Risso's dolphin,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5164,2071,0,0,0,,
+Risso's dolphin,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3376,1355,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3871,2971,0,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2925,2137,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2249,1413,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3945,3180,10,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2667,2299,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2282,1559,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,8519,5590,6,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4608,3247,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3416,2303,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4025,2421,0,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2518,1639,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2019,1492,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3744,2500,9,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2454,1853,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1797,1440,0,0,0,,
+Risso's dolphin,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,10732,6015,6,0,0,,
+Risso's dolphin,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5649,3601,0,0,0,,
+Risso's dolphin,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3944,2314,0,0,0,,
+Risso's dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,8621,4519,4,0,0,,
+Risso's dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7038,3113,4,0,0,,
+Risso's dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,4908,2320,0,0,0,,
+Risso's dolphin,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9496,4691,0,0,0,,
+Risso's dolphin,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6528,3099,0,0,0,,
+Risso's dolphin,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5164,2313,0,0,0,,
+Risso's dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,12676,5614,4,0,0,,
+Risso's dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8528,3167,4,0,0,,
+Risso's dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6318,2588,0,0,0,,
+Risso's dolphin,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,10747,5578,0,0,0,,
+Risso's dolphin,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8156,3114,0,0,0,,
+Risso's dolphin,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5979,2288,0,0,0,,
+Risso's dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,8932,5014,5,0,0,,
+Risso's dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6827,3707,5,0,0,,
+Risso's dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,4756,2284,0,0,0,,
+Risso's dolphin,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9276,4995,5,0,0,,
+Risso's dolphin,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6790,3179,5,0,0,,
+Risso's dolphin,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5163,2219,0,0,0,,
+Risso's dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,12309,5827,5,0,0,,
+Risso's dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8113,4141,5,0,0,,
+Risso's dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5811,2609,0,0,0,,
+Risso's dolphin,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13041,5504,5,0,0,,
+Risso's dolphin,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7765,3614,4,0,0,,
+Risso's dolphin,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5565,2864,0,0,0,,
+Long-finned pilot whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,7162,3851,0,0,0,,
+Long-finned pilot whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4209,2042,0,0,0,,
+Long-finned pilot whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3269,1347,0,0,0,,
+Long-finned pilot whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,8680,3855,0,0,0,,
+Long-finned pilot whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,4782,2134,0,0,0,,
+Long-finned pilot whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3301,1083,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4191,2733,0,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2902,1999,0,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2199,1570,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3936,2907,0,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2666,1952,0,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2005,1484,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,8612,5039,3,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4907,3112,3,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3534,2233,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4129,2697,0,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2444,1815,0,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2083,1412,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3648,2554,0,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2460,1690,0,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1951,1351,0,0,0,,
+Long-finned pilot whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12252,5615,3,0,0,,
+Long-finned pilot whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5860,3200,3,0,0,,
+Long-finned pilot whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3852,2419,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9414,4288,0,0,0,,
+Long-finned pilot whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6920,3233,0,0,0,,
+Long-finned pilot whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5688,2271,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9432,4367,0,0,0,,
+Long-finned pilot whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6888,3095,0,0,0,,
+Long-finned pilot whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5184,2348,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,12759,5585,0,0,0,,
+Long-finned pilot whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8079,2954,0,0,0,,
+Long-finned pilot whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5641,2436,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12249,5359,0,0,0,,
+Long-finned pilot whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8180,3223,0,0,0,,
+Long-finned pilot whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6257,2241,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9830,5296,8,0,0,,
+Long-finned pilot whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7048,3780,8,0,0,,
+Long-finned pilot whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5142,2364,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,8773,5034,8,0,0,,
+Long-finned pilot whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6801,3133,7,0,0,,
+Long-finned pilot whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5649,2340,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,12546,5807,8,0,0,,
+Long-finned pilot whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8051,3767,8,0,0,,
+Long-finned pilot whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6050,2525,0,0,0,,
+Long-finned pilot whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,12090,5942,8,0,0,,
+Long-finned pilot whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8822,3643,8,0,0,,
+Long-finned pilot whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6028,2712,0,0,0,,
+Sperm whale,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,7604,3959,0,0,0,,
+Sperm whale,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4521,2172,0,0,0,,
+Sperm whale,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3381,1223,0,0,0,,
+Sperm whale,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9619,4743,0,0,0,,
+Sperm whale,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5481,2212,0,0,0,,
+Sperm whale,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3643,1258,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4053,3087,0,0,0,,
+Sperm whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3237,2100,0,0,0,,
+Sperm whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2229,1628,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4039,3231,0,0,0,,
+Sperm whale,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2764,2161,0,0,0,,
+Sperm whale,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2309,1389,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,9478,6394,3,0,0,,
+Sperm whale,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5792,3506,3,0,0,,
+Sperm whale,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4096,2563,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4337,2551,0,0,0,,
+Sperm whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2787,1936,0,0,0,,
+Sperm whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2077,1423,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4497,2291,0,0,0,,
+Sperm whale,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2656,1985,0,0,0,,
+Sperm whale,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2180,1352,0,0,0,,
+Sperm whale,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,11566,5730,3,0,0,,
+Sperm whale,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5576,3535,3,0,0,,
+Sperm whale,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3957,2446,0,0,0,,
+Sperm whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9828,5010,0,0,0,,
+Sperm whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6638,3015,0,0,0,,
+Sperm whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5662,2317,0,0,0,,
+Sperm whale,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9476,4535,0,0,0,,
+Sperm whale,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,7285,3140,0,0,0,,
+Sperm whale,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5086,2355,0,0,0,,
+Sperm whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13734,5379,0,0,0,,
+Sperm whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,8005,3412,0,0,0,,
+Sperm whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6696,2509,0,0,0,,
+Sperm whale,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12413,5089,0,0,0,,
+Sperm whale,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8106,3425,0,0,0,,
+Sperm whale,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6114,2269,0,0,0,,
+Sperm whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,10242,5364,0,0,0,,
+Sperm whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7118,3366,0,0,0,,
+Sperm whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5793,2305,0,0,0,,
+Sperm whale,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9794,5059,0,0,0,,
+Sperm whale,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6912,3127,0,0,0,,
+Sperm whale,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5478,2530,0,0,0,,
+Sperm whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13789,6348,0,0,0,,
+Sperm whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8397,3970,0,0,0,,
+Sperm whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5860,3079,0,0,0,,
+Sperm whale,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13081,5911,0,0,0,,
+Sperm whale,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8859,3648,0,0,0,,
+Sperm whale,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6068,2590,0,0,0,,
+Harbor porpoise,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,5556,30039,425,0,0,,
+Harbor porpoise,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4068,23191,129,0,0,,
+Harbor porpoise,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,2889,21291,9,0,0,,
+Harbor porpoise,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,8874,113174,363,0,0,,
+Harbor porpoise,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,4740,107775,116,0,0,,
+Harbor porpoise,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,2959,107660,9,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4201,11648,483,331,356,,
+Harbor porpoise,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2812,10375,375,42,39,,
+Harbor porpoise,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2318,9103,349,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3926,11469,527,332,381,,
+Harbor porpoise,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2821,9420,375,249,253,,
+Harbor porpoise,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2197,7731,321,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,6485,36930,769,894,793,,
+Harbor porpoise,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4537,26932,308,206,226,,
+Harbor porpoise,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3783,23327,245,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,3774,84933,504,314,337,,
+Harbor porpoise,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2494,91782,349,40,41,,
+Harbor porpoise,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2042,84882,3,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3788,84063,458,347,348,,
+Harbor porpoise,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2589,86259,383,36,42,,
+Harbor porpoise,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1887,89243,0,0,0,,
+Harbor porpoise,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,10996,92050,588,818,712,,
+Harbor porpoise,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5341,91248,279,227,212,,
+Harbor porpoise,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3632,88291,246,0,0,,
+Harbor porpoise,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,8528,23648,793,0,0,,
+Harbor porpoise,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6239,20426,512,0,0,,
+Harbor porpoise,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5260,16935,316,0,0,,
+Harbor porpoise,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,7907,24755,1142,0,0,,
+Harbor porpoise,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5790,19872,516,0,0,,
+Harbor porpoise,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5099,16811,409,0,0,,
+Harbor porpoise,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,11759,112390,775,0,0,,
+Harbor porpoise,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,7681,48254,464,0,0,,
+Harbor porpoise,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5874,34895,209,0,0,,
+Harbor porpoise,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,10299,113292,891,0,0,,
+Harbor porpoise,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6405,51630,517,0,0,,
+Harbor porpoise,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5599,33683,146,0,0,,
+Harbor porpoise,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,8233,27301,1111,0,0,,
+Harbor porpoise,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6369,22075,443,0,0,,
+Harbor porpoise,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,4635,18262,335,0,0,,
+Harbor porpoise,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,7722,25345,1063,0,0,,
+Harbor porpoise,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6592,20994,524,0,0,,
+Harbor porpoise,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5001,18796,435,0,0,,
+Harbor porpoise,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,11642,107178,763,0,0,,
+Harbor porpoise,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,7913,85492,457,0,0,,
+Harbor porpoise,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5758,49267,181,0,0,,
+Harbor porpoise,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,11127,108569,881,0,0,,
+Harbor porpoise,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7203,80967,508,0,0,,
+Harbor porpoise,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5028,48257,189,0,0,,
+Gray seal,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,9196,6961,11,1486,1514,,
+Gray seal,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,5435,3552,0,541,473,,
+Gray seal,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3952,2787,0,216,210,,
+Gray seal,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,11117,8114,30,1504,1548,,
+Gray seal,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5776,4438,0,506,545,,
+Gray seal,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3807,2674,0,197,209,,
+Gray seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3773,4083,0,1291,1409,,
+Gray seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3119,2662,0,803,788,,
+Gray seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2332,1844,0,341,304,,
+Gray seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4229,3746,0,1464,1619,,
+Gray seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3146,2614,0,979,999,,
+Gray seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2178,2068,0,725,807,,
+Gray seal,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,10231,7794,31,3902,4140,,
+Gray seal,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,5952,4773,0,2356,2588,,
+Gray seal,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4448,3372,0,1988,1794,,
+Gray seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4721,3656,0,1328,1367,,
+Gray seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2979,2398,0,953,841,,
+Gray seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2184,1797,0,284,336,,
+Gray seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4496,3643,0,1594,1587,,
+Gray seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2784,2409,0,867,876,,
+Gray seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2211,1898,0,829,741,,
+Gray seal,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12700,9716,30,4550,4741,,
+Gray seal,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6524,5329,0,3069,2858,,
+Gray seal,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,4960,3312,0,1921,1804,,
+Gray seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,10931,7529,0,590,599,,
+Gray seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7293,4797,0,0,0,,
+Gray seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6320,3905,0,0,0,,
+Gray seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,10302,7906,0,595,582,,
+Gray seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6912,5118,0,230,240,,
+Gray seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5896,4284,0,0,0,,
+Gray seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13946,10201,0,709,621,,
+Gray seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,9543,6373,0,0,0,,
+Gray seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,7371,4224,0,0,0,,
+Gray seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,13530,9579,0,604,594,,
+Gray seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,7769,5706,0,268,235,,
+Gray seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,6926,4407,0,0,0,,
+Gray seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9553,8692,0,728,758,,
+Gray seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7407,5566,0,0,0,,
+Gray seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5431,4411,0,0,0,,
+Gray seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,9512,7760,0,672,624,,
+Gray seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,7436,5709,0,425,429,,
+Gray seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5921,4230,0,0,0,,
+Gray seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,14452,10780,0,806,805,,
+Gray seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,8938,6114,0,0,0,,
+Gray seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6417,4145,0,0,0,,
+Gray seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13512,9989,0,986,986,,
+Gray seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8131,5948,0,256,249,,
+Gray seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6380,5339,0,217,214,,
+Harbor seal,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,6317,4904,0,556,511,,
+Harbor seal,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4389,2658,0,71,71,,
+Harbor seal,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,2808,1873,0,0,0,,
+Harbor seal,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9118,6879,0,542,505,,
+Harbor seal,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5143,2966,0,71,72,,
+Harbor seal,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,2831,2207,0,0,0,,
+Harbor seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4049,3479,24,708,709,,
+Harbor seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2882,2528,0,384,373,,
+Harbor seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2120,1944,0,40,46,,
+Harbor seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,3989,3308,14,747,678,,
+Harbor seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2761,2380,15,359,375,,
+Harbor seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2049,1976,14,177,184,,
+Harbor seal,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,8637,6802,12,2288,2156,,
+Harbor seal,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4933,4091,12,1210,1142,,
+Harbor seal,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,3753,2911,8,654,614,,
+Harbor seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,3979,3301,23,675,679,,
+Harbor seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2669,2190,0,366,362,,
+Harbor seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2095,1716,0,42,42,,
+Harbor seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,3848,3177,17,711,729,,
+Harbor seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2465,2320,15,349,392,,
+Harbor seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2160,1759,15,189,194,,
+Harbor seal,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12205,8673,10,2732,2732,,
+Harbor seal,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,5317,4025,11,1320,1280,,
+Harbor seal,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,3510,3037,7,616,634,,
+Harbor seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,9626,6667,0,518,458,,
+Harbor seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,6854,4781,0,205,203,,
+Harbor seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,4808,3131,0,0,0,,
+Harbor seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,9764,6460,8,480,471,,
+Harbor seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6087,4379,0,76,79,,
+Harbor seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5063,3457,0,0,0,,
+Harbor seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,11702,9252,0,432,411,,
+Harbor seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,7369,5240,0,216,213,,
+Harbor seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,5933,3852,0,0,0,,
+Harbor seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12054,7673,8,633,610,,
+Harbor seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8006,5098,0,74,72,,
+Harbor seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5642,3492,0,0,0,,
+Harbor seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,9145,7266,0,684,711,,
+Harbor seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,6956,4380,0,430,396,,
+Harbor seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5098,3793,0,0,0,,
+Harbor seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,8517,6699,62,702,654,,
+Harbor seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6258,4493,0,78,75,,
+Harbor seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,4788,3151,0,0,0,,
+Harbor seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,12683,9704,0,767,710,,
+Harbor seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,7666,5662,0,195,203,,
+Harbor seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,5609,4184,0,0,0,,
+Harbor seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,11471,8821,56,583,651,,
+Harbor seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,7416,5378,0,78,83,,
+Harbor seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,5620,4038,0,0,0,,
+Harp seal,0dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,7821,6386,16,600,512,,
+Harp seal,6dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,4978,3687,0,51,48,,
+Harp seal,10dB,Jacket1,4m,Summer,hammerA,impact_only,reg,4perday,,3287,2474,0,0,0,,
+Harp seal,0dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,9817,7149,15,589,592,,
+Harp seal,6dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,5721,3805,0,64,59,,
+Harp seal,10dB,Jacket1,4m,Winter,hammerA,impact_only,reg,4perday,,3600,2458,0,0,0,,
+Harp seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,4054,3425,33,651,683,,
+Harp seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,3120,2410,0,356,358,,
+Harp seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,4perday,,2245,1850,0,144,159,,
+Harp seal,0dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,4638,3648,59,735,770,,
+Harp seal,6dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2915,2292,0,393,368,,
+Harp seal,10dB,Jacket2,3m,Summer,hammerB,impact_only,reg,8perday,,2275,1999,0,226,222,,
+Harp seal,0dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,10282,8050,95,2131,1970,,
+Harp seal,6dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,6250,4641,34,1048,1103,,
+Harp seal,10dB,Jacket2,3m,Summer,hammerC,impact_only,reg,4perday,,4250,3461,1,588,533,,
+Harp seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,4002,3357,36,683,621,,
+Harp seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2527,2426,0,363,351,,
+Harp seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,4perday,,2197,1786,0,158,149,,
+Harp seal,0dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,4279,3278,58,826,803,,
+Harp seal,6dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,2545,2504,0,370,402,,
+Harp seal,10dB,Jacket2,3m,Winter,hammerB,impact_only,reg,8perday,,1913,1770,0,229,223,,
+Harp seal,0dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,12399,9849,116,2548,2391,,
+Harp seal,6dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,6107,4628,33,1179,1150,,
+Harp seal,10dB,Jacket2,3m,Winter,hammerC,impact_only,reg,4perday,,4239,3551,1,591,652,,
+Harp seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,10543,6704,29,508,459,,
+Harp seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,7111,4992,30,29,29,,
+Harp seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,1perday,,5596,3694,0,0,0,,
+Harp seal,0dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,10273,7359,78,533,485,,
+Harp seal,6dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,6733,5323,13,78,76,,
+Harp seal,10dB,WTGmono1,12m,Summer,hammerD,impact_only,reg,2perday,,5473,3471,0,0,0,,
+Harp seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,13886,9788,30,496,502,,
+Harp seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,9167,5933,28,30,28,,
+Harp seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,1perday,,6599,4378,0,31,30,,
+Harp seal,0dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,12475,8524,74,622,551,,
+Harp seal,6dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,8637,5660,16,159,161,,
+Harp seal,10dB,WTGmono1,12m,Winter,hammerD,impact_only,reg,2perday,,5965,4367,0,0,0,,
+Harp seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,10107,7392,31,873,881,,
+Harp seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,7285,5678,28,31,28,,
+Harp seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,1perday,,5846,3911,0,30,29,,
+Harp seal,0dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,10395,7872,75,844,867,,
+Harp seal,6dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,6784,5170,15,194,218,,
+Harp seal,10dB,WTGmono2,12m,Summer,hammerD,impact_only,diff,2perday,,5820,3350,5,5,4,,
+Harp seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,13953,9495,30,871,841,,
+Harp seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,9544,5910,29,29,29,,
+Harp seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,1perday,,6493,4526,0,31,27,,
+Harp seal,0dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,13382,9222,84,822,980,,
+Harp seal,6dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,8811,5628,15,227,224,,
+Harp seal,10dB,WTGmono2,12m,Winter,hammerD,impact_only,diff,2perday,,6218,4414,4,5,4,,
