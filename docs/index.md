@@ -45,26 +45,69 @@ toc: false
 </style>
 
 <div class="hero">
-  <h1>Offshore wind turbine noise effects</h1>
+  <h1>Offshore wind turbine installation: noise effects</h1>
   <h2>Impact distances for marine mammal injury and behavioral disturbance</h2>
 </div>
 
-<div class="grid grid-cols-2">
 
-  <div class="card grid-rowspan-3">
+<div class="grid grid-cols-1">
+
+<div class="card">
+  <h1>Subset selections</h1>
+
+  <br>
+  <h2>Installation type</h2>
+  Wind turbines may be installed using either impact pile driving alone, or else a combination of impact and vibratory pile driving. 
   ${tidySubsetTextPick}
 
-  ${resize((width) => plotAllSpecies(getSubsetPick(tidySubsetPick), {width})  )   }
   
-  </div>
+  <br>
+  <h2>Criteria</h2>
+  Impact ranges may be calculated using criteria describing the potential for either injury or behavioral disturbance. 
+  ${criteriaInput}
 
-  <div class="card grid-rowspan-1">
-  ${resize((width) => plotSeasonCompare(unique, {width}) )}
-  
-  </div>
+  <br>
+  <i>* Unless otherwise indicated, the plots below show a broadband attenuation level of <b>10dB</b>, and assume the <b>summer</b> sound speed profile.</i>
+
+</div>
+
+</div>
+
+
+<div class="grid grid-cols-2">
 
   <div class="card grid-rowspan-2">
-  ${resize((width) => clusterPlot1(distancesAll, {width}))}
+
+  <h2>Impact distances for each species</h2>
+
+  ${resize((width) => plotAllSpecies(subsetDistances, {width})  )   }
+  
+  </div>
+
+
+  <div class="card">
+
+  <h2>Seasonal comparison</h2>
+  <p>The temperature structure of the water column changes from summer to winter, and that affects the sound propagation. This plot shows how impact distances differ between the two seasons.</p>
+
+  ${resize((width) => plotSeasonCompare(subsetDistances, {width}) )}
+  
+  </div>
+
+  <div class="card  grid-rowspan-2">
+  <h2>Attenuation comparison</h2>
+  <p>To mitigate the effects of the pile driving sounds, different noise attenuation systems can be used to muffle the sound and reduce the impact ranges. This plot shows how different broadband attenuation levels can reduce the impact ranges.</p>
+
+  ${resize((width) => clusterPlot1(subsetDistances, {width}))}
+
+  </div>
+
+  <div class="card">
+  <h2>Foundation comparison</h2>
+  ${resize((width) => plotFoundCompare(subsetDistances, {width}) )}
+
+  <i>Note: This plot format is based on <a href="https://observablehq.com/d/e34f190c55d77a97">a very nice example</a>
+ by Tanya Shapiro</i>
 
   </div>
 
@@ -91,28 +134,58 @@ const unique = distancesTidy.groupby(["species","attenuation","found", "season",
 // Subset for Vibe+Impact pile driving
 const tidyVibe = distancesTidy.filter( 
   d => ((d.criteria === "beh_NOAA-both") | 
-        (d.criteria === "inj_sel_pts-both")) & 
-  (d.vibpen === "vib_and_impact") &
-  (d.attenuation === "10dB") & 
-  (d.season === "Summer"))
+        (d.criteria === "inj_sel-pts-both")) & 
+  (d.vibpen === "vib_and_impact") 
+  // (d.attenuation === "10dB") & 
+  // (d.season === "Summer")
+  )
 
 // Subset for Impact-only pile driving
 const tidyImpact = distancesTidy.filter( 
   d => ((d.criteria === "beh_NOAA-int") | 
-        (d.criteria === "inj_sel_pts-impulsive")) & 
-  (d.vibpen === "impact_only") &
-  (d.attenuation === "10dB") & 
-  (d.season === "Summer"))
+        (d.criteria === "inj_sel-pts-impulsive")) & 
+  (d.vibpen === "impact_only") 
+  // (d.attenuation === "10dB") & 
+  // (d.season === "Summer")
+  )
 
 ```
 
 
 ```js
-function getSubsetPick(str) {
-  if (str === "Impact") {
-    return tidyImpact;
+// User selection
+const tidySubsetTextPick = Inputs.radio(["Impact", "Impact + vibe"], {label: "Select a subset:"});
+const tidySubsetPick = Generators.input(tidySubsetTextPick);
+
+const criteriaInput = Inputs.radio(["Behavior", "Injury"], {label: "Select criteria:"});
+const criteriaPick = Generators.input(criteriaInput);
+
+```
+
+```js
+const subsetDistances = getSubsetPick(tidySubsetPick, criteriaPick)
+
+
+```
+
+
+```js
+function getSubsetPick(instPick, critPick) {
+  if (instPick === "Impact") {
+    if (critPick === "Behavior") 
+      {
+        return tidyImpact.filter(d => (d.criteria === "beh_NOAA-int"));   
+      } else {
+        return tidyImpact.filter(d => (d.criteria === "inj_sel-pts-impulsive"));
+      }
   } else {
-    return tidyVibe;
+    if (critPick === "Behavior") 
+      {
+        return tidyVibe.filter(d => (d.criteria === "beh_NOAA-both"));
+      } else {
+        return tidyVibe.filter(d => (d.criteria === "inj_sel-pts-both"))
+      }
+    
   }
 }
 
@@ -120,34 +193,25 @@ function getSubsetPick(str) {
 
 
 ```js
-const medianByFoundation = tidyImpact.groupby('found')
-  .rollup({ medDistance: aq.op.median('distanceKM'),
-    meanDistance: aq.op.mean('distanceKM'),
-  })
-
-```
-
-
-```js
 function clusterPlot1(data, {width}) {
   return Plot.plot({
-    title: "Behavioral disturbance distances",
-    subtitle: "Impact hammering only",
     width,
-    height: 400,
+    height: 500,
     y: {
       grid: true, label: "Distance", 
       tickFormat: d => `${d/1000} km`,
       },
     fx: {label: null, domain: ["LF", "MF", "HF", "PW"]},
-    color: {legend: true, domain: ["0dB", "6dB", "10dB"], scheme: "Tableau10"},
+    color: {legend: true, domain: ["0dB", "6dB", "10dB"], scheme: "Warm"},
     marks: [
       Plot.ruleY([0]),
-      Plot.dot(data.filter(d => d.season === "Summer"), 
+      Plot.dot(data.filter(d => (d.season === "Summer") & (d.distance > 0)), 
         Plot.dodgeX("middle", 
         {fx: "hearing_group", 
-        y: "beh_NOAA-int", 
+        y: "distance", 
         fill: "attenuation",
+        stroke: "black",
+        strokeWidth: 0.5,
         r: 3.5,
         channels: {
           species: "species",
@@ -177,20 +241,20 @@ function plotSeasonCompare(data, {width}) {
     marginLeft: 80,
     width,
     height: 175,
-    color: {legend: true, scheme: "Tableau10", reverse: true},
+    color: {legend: true, scheme: "Observable10", reverse: true},
     x: {label: "Distance", tickFormat: d => `${d/1000} km`},
     y: {axis: null},
     fy: {label: null},
     marks: [
       Plot.ruleX([0]),
       Plot.tickX(
-        data,
+        data.filter(d => (d.attenuation === "10dB")),
         {x: "distance", y: "season", 
         fy: "found", stroke: "season",
-        strokeOpacity: 0.3}
+        strokeOpacity: 0.7}
       ),  
       Plot.tickX(
-        data,
+        data.filter(d => (d.attenuation === "10dB")),
         Plot.groupY(
           {x: "max"},
           {x: "distance", y: "season", 
@@ -204,14 +268,6 @@ function plotSeasonCompare(data, {width}) {
 }
 ```
 
-
-```js
-const tidySubsetTextPick = Inputs.radio(["Impact", "Impact + vibe"], {label: "Select a subset"})
-const tidySubsetPick = Generators.input(tidySubsetTextPick);
-
-```
-
-
 ```js
 // tidyImpact OR tidyVibe
 function plotAllSpecies(data, {width}) {
@@ -224,9 +280,13 @@ function plotAllSpecies(data, {width}) {
     color: {legend: true, scheme: "Tableau10"},
     symbol: {legend: true},
     marks: [
-      Plot.dot(data, {x: "distance", y: "shortName", 
+      Plot.dot(
+        data.filter(d => (d.season === "Summer") & (d.attenuation === "10dB")),
+      {
+        x: "distance", y: "shortName", 
         fill: "found", r: 6, symbol: "hammerID", stroke: "black",
-        channels: {
+        channels: 
+        {
           shortName: {value: "shortName", label: "Species"},
           species: {value: "species", label: "Species"},
           found: {value: "found", label: "Foundation"},
@@ -234,7 +294,8 @@ function plotAllSpecies(data, {width}) {
           hammerID: {value: "hammerID", label: "Hammer ID"},
           distance: {value: "distance", label: "Distance"}
         },
-        tip: {
+        tip: 
+        {
           format: {
             shortName: false,
             species: true,
@@ -245,7 +306,7 @@ function plotAllSpecies(data, {width}) {
             fill: false,
             y: false,
             symbol: false,
-        }
+          }
         },
       })
     ]
@@ -255,33 +316,36 @@ function plotAllSpecies(data, {width}) {
 
 ```js
 // tidyImpact OR tidyVibe
-function plotFoundCompare(data, {width}) {
-  return Plot.plot({
-  width,
-  // height:300,
-  y: {label:null, tickSize:0, label:null, axis:null},
-  x: {grid:true, tickSize:0, label: "Distance (km)"},
-  color: {scheme: "Tableau10"},
-  facet: {data: data, y: "found", label:null},
-  marginLeft:80,
-  marginBottom:40,
-  marks: [
-  //density plot
-  Plot.areaY(data,
-    Plot.binX({y: 'count'},{x: "distanceKM", fill: 'found', fillOpacity: 0.85, curve: 'basis', 
-    thresholds:40, stroke:'found', strokeWidth:2}
-  )),
-    //custom mark to create point interval
-    markPointInterval(data, 
-      {y:0, x:"distanceKM", text: "distanceKM", fillText:"white", fill: 'black'}),
-    //jitter for each observation
-    Plot.dot(data, {x: d => d.distanceKM, y: d=> -10 + Math.random()*3, r:4,
-      fill: "found", dy:-10, stroke:"white", strokeWidth:0.5,
-      //customize tooltip on hover with channels and tip format
-      channels: {species: "species", found: "found", distance: "distanceKM"}, 
-      tip: {format: {fill: false, x: false, y: false, fy: false}}}),
-  ]
-})}
+function plotFoundCompare(data0, {width}) {
+  const data = data0.filter(d => (d.season === "Summer") & (d.attenuation === "10dB"));
+  const plot = Plot.plot({
+      width,
+      height:250,
+      y: {label:null, tickSize:0, label:null, axis:null},
+      x: {grid:true, tickSize:0, label: "Distance (km)"},
+      color: {scheme: "Tableau10"},
+      facet: {data: data, y: "found", label:null},
+      marginLeft:80,
+      marginBottom:40,
+      marks: [
+      //density plot
+      Plot.areaY(data,
+        Plot.binX({y: 'count'},{x: "distanceKM", fill: 'found', fillOpacity: 0.85, curve: 'basis', 
+        thresholds:40, stroke:'found', strokeWidth:2}
+      )),
+        //custom mark to create point interval
+        markPointInterval(data, 
+          {y:0, x:"distanceKM", text: "distanceKM", fillText:"white", fill: 'black'}),
+        //jitter for each observation
+        Plot.dot(data, {x: d => d.distanceKM, y: d=> -5 + Math.random()*2, r:4,
+          fill: "found", dy:10, stroke:"white", strokeWidth:0.5,
+          //customize tooltip on hover with channels and tip format
+          channels: {species: "species", found: "found", distance: "distanceKM"}, 
+          tip: {format: {fill: false, x: false, y: false, fy: false}}}),
+      ]
+  })
+  return plot;
+}
 ```
 
 
