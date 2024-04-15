@@ -9,9 +9,10 @@ toc: false
   flex-direction: column;
   align-items: center;
   font-family: var(--sans-serif);
-  margin: 4rem 0 6rem;
+  margin: 4rem 0 4rem;
   text-wrap: balance;
   text-align: center;
+
 }
 
 .hero h1 {
@@ -36,6 +37,10 @@ toc: false
   color: var(--theme-foreground-muted);
 }
 
+.hero p {
+  color: var(--theme-foreground-muted);
+}
+
 @media (min-width: 640px) {
   .hero h1 {
     font-size: 75px;
@@ -44,9 +49,14 @@ toc: false
 
 </style>
 
+
+
 <div class="hero">
-  <h1>Offshore wind turbine installation: noise effects</h1>
-  <h2>Impact distances for marine mammal injury and behavioral disturbance</h2>
+    <h1>Offshore wind turbine installation: noise effects</h1>
+    <h2>Impact distances for marine mammal injury and behavioral disturbance</h2>
+    <br>
+    <p>These data are for demonstration purposes only. Dashboard by <a href="https://waveformanalytics.com">Waveform Analytics, LLC</a>.</p>
+    
 </div>
 
 
@@ -96,7 +106,7 @@ toc: false
 
   <div class="card  grid-rowspan-2">
   <h2>Attenuation comparison</h2>
-  <p>To mitigate the effects of the pile driving sounds, different noise attenuation systems can be used to muffle the sound and reduce the impact ranges. This plot shows how different broadband attenuation levels can reduce the impact ranges.</p>
+  <p>To mitigate the effects of the pile driving sounds, different noise attenuation systems can be used to essentially muffle the sound and reduce the impact ranges. This plot shows how different broadband attenuation levels can reduce the impact ranges.</p>
 
   ${resize((width) => clusterPlot1(subsetDistances, {width}))}
 
@@ -154,13 +164,33 @@ const tidyImpact = distancesTidy.filter(
 
 ```js
 // User selection
-const tidySubsetTextPick = Inputs.radio(["Impact", "Impact + vibe"], {label: "Select a subset:"});
+const tidySubsetTextPick = Inputs.radio(["Impact", "Impact + vibe"], {label: "Select a subset:", value: "Impact"});
 const tidySubsetPick = Generators.input(tidySubsetTextPick);
 
-const criteriaInput = Inputs.radio(["Behavior", "Injury"], {label: "Select criteria:"});
+const criteriaInput = Inputs.radio(["Behavior", "Injury"], {label: "Select criteria:", value: "Behavior"});
 const criteriaPick = Generators.input(criteriaInput);
 
+const tidyObjects = distancesTidy.objects()
+// const searchInput = Inputs.search(tidyObjects);
+
+
 ```
+
+```js
+const searchInput = Inputs.search(tidyObjects, {placeholder: "Search distance data…"});
+// const tableView = Inputs.table(searchInput.objects());
+
+
+```
+
+
+```js
+// const speciesTablePick = Generators.input(searchInput);
+
+// display(Inputs.table(searchInput))
+
+```
+
 
 ```js
 const subsetDistances = getSubsetPick(tidySubsetPick, criteriaPick)
