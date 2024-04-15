@@ -16,6 +16,8 @@ export default {
     }
   ],
 
+  head: `<link rel="icon" href="/favicon.png">`,
+
   // Some additional configuration options and their defaults:
   theme: ["dashboard", "light"],
   // header: "", // what to show in the header (HTML)

@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Wind Farm Impact Ranges</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&amp;display=swap" crossorigin>
+<link rel="preload" as="style" href="./_observablehq/theme-air,alt,wide.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&amp;display=swap" crossorigin>
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,alt,wide.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.css">
+<link rel="modulepreload" href="./_observablehq/client.js">
+<link rel="modulepreload" href="./_observablehq/runtime.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.js">
+<link rel="modulepreload" href="./_npm/arquero@5.4.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3@7.9.0/_esm.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.js">
+<link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.14/_esm.js">
+<link rel="modulepreload" href="./_npm/htl@0.3.1/_esm.js">
+<link rel="modulepreload" href="./_npm/isoformat@0.2.1/_esm.js">
+<link rel="modulepreload" href="./_npm/apache-arrow@15.0.2/_esm.js">
+<link rel="modulepreload" href="./_npm/acorn@8.11.3/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-array@3.2.4/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-axis@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-brush@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-chord@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-color@3.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-contour@4.0.2/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-delaunay@6.0.4/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-dispatch@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-drag@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-ease@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-fetch@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-force@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-format@3.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-geo@3.1.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-hierarchy@3.1.2/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-interpolate@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-path@3.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-polygon@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-quadtree@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-random@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-scale@4.0.2/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-scale-chromatic@3.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-selection@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-shape@3.2.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-time@3.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-time-format@4.1.0/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-timer@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-transition@3.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/d3-zoom@3.0.0/_esm.js">
+<link rel="modulepreload" href="./_npm/interval-tree-1d@1.0.4/_esm.js">
+<link rel="modulepreload" href="./_npm/tslib@2.6.2/_esm.js">
+<link rel="modulepreload" href="./_npm/flatbuffers@23.5.26/_esm.js">
+<link rel="modulepreload" href="./_npm/internmap@2.0.3/_esm.js">
+<link rel="modulepreload" href="./_npm/delaunator@5.0.1/_esm.js">
+<link rel="modulepreload" href="./_npm/binary-search-bounds@2.0.5/_esm.js">
+<link rel="modulepreload" href="./_npm/robust-predicates@3.0.2/_esm.js">
+<link rel="icon" href="./_file/favicon.8578aaa4.png">
+<script type="module">
+
+import {define} from "./_observablehq/client.js";
+import {registerFile} from "./_observablehq/stdlib.js";
+
+registerFile("./data/example-wf-impact-ranges.csv", {"name":"./data/example-wf-impact-ranges.csv","mimeType":"text/csv","path":"./_file/data/example-wf-impact-ranges.1d9db1c3.csv","lastModified":1712694743095});
+registerFile("./data/species-info.csv", {"name":"./data/species-info.csv","mimeType":"text/csv","path":"./_file/data/species-info.cdf04036.csv","lastModified":1711591940043});
+
+define({id: "748f2510", inline: true, inputs: ["tidySubsetTextPick","display"], body: async (tidySubsetTextPick,display) => {
+display(await(
+tidySubsetTextPick
+))
+}});
+
+define({id: "9f57d8c1", inline: true, inputs: ["criteriaInput","display"], body: async (criteriaInput,display) => {
+display(await(
+criteriaInput
+))
+}});
+
+define({id: "b644610d", inline: true, inputs: ["resize","plotAllSpecies","subsetDistances","display"], body: async (resize,plotAllSpecies,subsetDistances,display) => {
+display(await(
+resize((width) => plotAllSpecies(subsetDistances, {width})  )   
+))
+}});
+
+define({id: "ee2e1e62", inline: true, inputs: ["resize","plotSeasonCompare","subsetDistances","display"], body: async (resize,plotSeasonCompare,subsetDistances,display) => {
+display(await(
+resize((width) => plotSeasonCompare(subsetDistances, {width}) )
+))
+}});
+
+define({id: "65f74654", inline: true, inputs: ["resize","clusterPlot1","subsetDistances","display"], body: async (resize,clusterPlot1,subsetDistances,display) => {
+display(await(
+resize((width) => clusterPlot1(subsetDistances, {width}))
+))
+}});
+
+define({id: "9a129368", inline: true, inputs: ["resize","plotFoundCompare","subsetDistances","display"], body: async (resize,plotFoundCompare,subsetDistances,display) => {
+display(await(
+resize((width) => plotFoundCompare(subsetDistances, {width}) )
+))
+}});
+
+define({id: "0a2fb4a9", inputs: ["aq","FileAttachment"], outputs: ["distances","speciesInfo","distancesAll","distancesTidy","unique"], body: async (aq,FileAttachment) => {
+const distances = aq.fromCSV(await FileAttachment("./data/example-wf-impact-ranges.csv").text());
+const speciesInfo = aq.fromCSV(await FileAttachment("./data/species-info.csv").text());
+const distancesAll = distances.join(speciesInfo,["species"])
+
+// all distances to a single column ("distance"), with an identifying column ("criteria")
+const distancesTidy = distancesAll
+  .fold(['beh_NOAA-cont', 'beh_NOAA-int', 'beh_Wood', 'inj_pk-pts', 'inj_sel-pts-impulsive', 'inj_sel-pts-nonimpulsive','inj_sel-pts-both','beh_NOAA-both'], { as: ['criteria', 'distance'] }).derive({distanceKM: d => d.distance / 1000})
+  .filter(d => d.distance != null)
+
+// unique foundations
+const unique = distancesTidy.groupby(["species","attenuation","found", "season", "vibpen", "abundance", "hearing_group", "shortName", "criteria", "distance"]).rollup({"mean": aq.op.mean("distance")})
+return {distances,speciesInfo,distancesAll,distancesTidy,unique};
+}});
+
+define({id: "172e5b6e", inputs: ["distancesTidy"], outputs: ["tidyVibe","tidyImpact"], body: (distancesTidy) => {
+// Subset for Vibe+Impact pile driving
+const tidyVibe = distancesTidy.filter( 
+  d => ((d.criteria === "beh_NOAA-both") | 
+        (d.criteria === "inj_sel-pts-both")) & 
+  (d.vibpen === "vib_and_impact") 
+  // (d.attenuation === "10dB") & 
+  // (d.season === "Summer")
+  )
+
+// Subset for Impact-only pile driving
+const tidyImpact = distancesTidy.filter( 
+  d => ((d.criteria === "beh_NOAA-int") | 
+        (d.criteria === "inj_sel-pts-impulsive")) & 
+  (d.vibpen === "impact_only") 
+  // (d.attenuation === "10dB") & 
+  // (d.season === "Summer")
+  )
+
+return {tidyVibe,tidyImpact};
+}});
+
+define({id: "80e5ab12", inputs: ["Inputs","Generators","distancesTidy"], outputs: ["tidySubsetTextPick","tidySubsetPick","criteriaInput","criteriaPick","tidyObjects"], body: (Inputs,Generators,distancesTidy) => {
+// User selection
+const tidySubsetTextPick = Inputs.radio(["Impact", "Impact + vibe"], {label: "Select a subset:", value: "Impact"});
+const tidySubsetPick = Generators.input(tidySubsetTextPick);
+
+const criteriaInput = Inputs.radio(["Behavior", "Injury"], {label: "Select criteria:", value: "Behavior"});
+const criteriaPick = Generators.input(criteriaInput);
+
+const tidyObjects = distancesTidy.objects()
+// const searchInput = Inputs.search(tidyObjects);
+
+
+return {tidySubsetTextPick,tidySubsetPick,criteriaInput,criteriaPick,tidyObjects};
+}});
+
+define({id: "b9ade2ae", inputs: ["Inputs","tidyObjects"], outputs: ["searchInput"], body: (Inputs,tidyObjects) => {
+const searchInput = Inputs.search(tidyObjects, {placeholder: "Search distance data…"});
+// const tableView = Inputs.table(searchInput.objects());
+
+
+return {searchInput};
+}});
+
+define({id: "8ffb29a6", body: () => {
+// const speciesTablePick = Generators.input(searchInput);
+
+// display(Inputs.table(searchInput))
+
+}});
+
+define({id: "5f29a2a0", inputs: ["getSubsetPick","tidySubsetPick","criteriaPick"], outputs: ["subsetDistances"], body: (getSubsetPick,tidySubsetPick,criteriaPick) => {
+const subsetDistances = getSubsetPick(tidySubsetPick, criteriaPick)
+
+
+return {subsetDistances};
+}});
+
+define({id: "7b7ff740", inputs: ["tidyImpact","tidyVibe"], outputs: ["getSubsetPick"], body: (tidyImpact,tidyVibe) => {
+function getSubsetPick(instPick, critPick) {
+  if (instPick === "Impact") {
+    if (critPick === "Behavior") 
+      {
+        return tidyImpact.filter(d => (d.criteria === "beh_NOAA-int"));   
+      } else {
+        return tidyImpact.filter(d => (d.criteria === "inj_sel-pts-impulsive"));
+      }
+  } else {
+    if (critPick === "Behavior") 
+      {
+        return tidyVibe.filter(d => (d.criteria === "beh_NOAA-both"));
+      } else {
+        return tidyVibe.filter(d => (d.criteria === "inj_sel-pts-both"))
+      }
+    
+  }
+}
+
+return {getSubsetPick};
+}});
+
+define({id: "929c782e", inputs: ["Plot"], outputs: ["clusterPlot1"], body: (Plot) => {
+function clusterPlot1(data, {width}) {
+  return Plot.plot({
+    width,
+    height: 500,
+    y: {
+      grid: true, label: "Distance", 
+      tickFormat: d => `${d/1000} km`,
+      },
+    fx: {label: null, domain: ["LF", "MF", "HF", "PW"]},
+    color: {legend: true, domain: ["0dB", "6dB", "10dB"], scheme: "Warm"},
+    marks: [
+      Plot.ruleY([0]),
+      Plot.dot(data.filter(d => (d.season === "Summer") & (d.distance > 0)), 
+        Plot.dodgeX("middle", 
+        {fx: "hearing_group", 
+        y: "distance", 
+        fill: "attenuation",
+        stroke: "black",
+        strokeWidth: 0.5,
+        r: 3.5,
+        channels: {
+          species: "species",
+          found: {value: "found", label: "Foundation"},
+          hammerID: {value: "hammerID", label: "Hammer ID"},
+        },
+        tip: {
+          format: {
+            species: true,
+            found: true,
+            y: (d) => `${d/1000}km`,
+            fx: false,
+            fill: false,
+          }
+        }}
+      ),
+      )
+    ]
+});
+}
+return {clusterPlot1};
+}});
+
+define({id: "57cfc80e", inputs: ["Plot"], outputs: ["plotSeasonCompare"], body: (Plot) => {
+// unique
+function plotSeasonCompare(data, {width}) {
+  return Plot.plot({
+    marginLeft: 80,
+    width,
+    height: 175,
+    color: {legend: true, scheme: "Observable10", reverse: true},
+    x: {label: "Distance", tickFormat: d => `${d/1000} km`},
+    y: {axis: null},
+    fy: {label: null},
+    marks: [
+      Plot.ruleX([0]),
+      Plot.tickX(
+        data.filter(d => (d.attenuation === "10dB")),
+        {x: "distance", y: "season", 
+        fy: "found", stroke: "season",
+        strokeOpacity: 0.7}
+      ),  
+      Plot.tickX(
+        data.filter(d => (d.attenuation === "10dB")),
+        Plot.groupY(
+          {x: "max"},
+          {x: "distance", y: "season", 
+          fy: "found", 
+          stroke: "black", strokeWidth: 2}
+        )
+      )
+    ]
+  }
+)
+}
+return {plotSeasonCompare};
+}});
+
+define({id: "597a7b15", inputs: ["Plot"], outputs: ["plotAllSpecies"], body: (Plot) => {
+// tidyImpact OR tidyVibe
+function plotAllSpecies(data, {width}) {
+  return Plot.plot({
+    y: {grid: true, label: null},
+    x: {label: "Distance", tickFormat: d => `${d/1000} km`},
+    marginLeft: 120,
+    height: 500,
+    width,
+    color: {legend: true, scheme: "Tableau10"},
+    symbol: {legend: true},
+    marks: [
+      Plot.dot(
+        data.filter(d => (d.season === "Summer") & (d.attenuation === "10dB")),
+      {
+        x: "distance", y: "shortName", 
+        fill: "found", r: 6, symbol: "hammerID", stroke: "black",
+        channels: 
+        {
+          shortName: {value: "shortName", label: "Species"},
+          species: {value: "species", label: "Species"},
+          found: {value: "found", label: "Foundation"},
+          instSch: {value: "instSch", label: "Inst. Sch."},
+          hammerID: {value: "hammerID", label: "Hammer ID"},
+          distance: {value: "distance", label: "Distance"}
+        },
+        tip: 
+        {
+          format: {
+            shortName: false,
+            species: true,
+            found: true,
+            instSch: true,
+            distance: (d) => `${d/1000} km`,
+            x: false,
+            fill: false,
+            y: false,
+            symbol: false,
+          }
+        },
+      })
+    ]
+  })
+}
+return {plotAllSpecies};
+}});
+
+define({id: "f92cbe6d", inputs: ["Plot","markPointInterval"], outputs: ["plotFoundCompare"], body: (Plot,markPointInterval) => {
+// tidyImpact OR tidyVibe
+function plotFoundCompare(data0, {width}) {
+  const data = data0.filter(d => (d.season === "Summer") & (d.attenuation === "10dB"));
+  const plot = Plot.plot({
+      width,
+      height:250,
+      y: {label:null, tickSize:0, label:null, axis:null},
+      x: {grid:true, tickSize:0, label: "Distance (km)"},
+      color: {scheme: "Tableau10"},
+      facet: {data: data, y: "found", label:null},
+      marginLeft:80,
+      marginBottom:40,
+      marks: [
+      //density plot
+      Plot.areaY(data,
+        Plot.binX({y: 'count'},{x: "distanceKM", fill: 'found', fillOpacity: 0.85, curve: 'basis', 
+        thresholds:40, stroke:'found', strokeWidth:2}
+      )),
+        //custom mark to create point interval
+        markPointInterval(data, 
+          {y:0, x:"distanceKM", text: "distanceKM", fillText:"white", fill: 'black'}),
+        //jitter for each observation
+        Plot.dot(data, {x: d => d.distanceKM, y: d=> -5 + Math.random()*2, r:4,
+          fill: "found", dy:10, stroke:"white", strokeWidth:0.5,
+          //customize tooltip on hover with channels and tip format
+          channels: {species: "species", found: "found", distance: "distanceKM"}, 
+          tip: {format: {fill: false, x: false, y: false, fy: false}}}),
+      ]
+  })
+  return plot;
+}
+return {plotFoundCompare};
+}});
+
+define({id: "a2288921", inputs: ["Plot","d3"], outputs: ["markPointInterval"], body: (Plot,d3) => {
+function markPointInterval(data, {y, x, fill, text, fillText}){
+   const marks = [
+     //range
+    Plot.ruleY(data, 
+               Plot.groupY({x1: "min", x2: "max"},
+                           {y: y, x: x, stroke: fill, strokeWidth:2})
+              ),
+    //quartiles IQR
+    Plot.ruleY(data, 
+               Plot.groupY({x1: (D) => d3.quantile(D, 0.25),x2: (D) => d3.quantile(D, 0.75)},
+                           {y: y, x: x, stroke: fill, strokeWidth:4.5})),
+    //mean dot
+    Plot.dot(data, 
+             Plot.groupY({x: "mean"},
+                         {y: y, x: x, fill: fill, r:9})),
+    //mean text
+    Plot.text(data, 
+             Plot.groupY({x: "mean", text: d=> d3.mean(d).toFixed(1)},
+                         {y: y, x: x, fill: fillText, text: text,
+                         fontSize:8})),
+     ]
+
+  return marks
+}
+
+
+return {markPointInterval};
+}});
+
+</script>
+<input id="observablehq-sidebar-toggle" type="checkbox" title="Toggle sidebar">
+<label id="observablehq-sidebar-backdrop" for="observablehq-sidebar-toggle"></label>
+<nav id="observablehq-sidebar">
+  <ol>
+    <label id="observablehq-sidebar-close" for="observablehq-sidebar-toggle"></label>
+    <li class="observablehq-link observablehq-link-active"><a href="./">Wind Farm Impact Ranges</a></li>
+  </ol>
+  <ol>
+    <details open>
+      <summary>Extras</summary>
+      <ol>
+    <li class="observablehq-link"><a href="./background">Background</a></li>
+    <li class="observablehq-link"><a href="./pileDriving">Pile driving</a></li>
+      </ol>
+    </details>
+  </ol>
+</nav>
+<script>{Object.assign(document.createElement("a"),{href:""}).password&&location.replace(location.href);const e=document.querySelector("#observablehq-sidebar"),o=document.querySelector("#observablehq-sidebar-toggle"),r=sessionStorage.getItem("observablehq-sidebar");r?o.checked=r==="true":o.indeterminate=!0;for(const t of document.querySelectorAll("#observablehq-sidebar summary")){const s=t.parentElement;switch(sessionStorage.getItem(`observablehq-sidebar:${t.textContent}`)){case"true":s.open=!0;break;case"false":s.classList.contains("observablehq-section-active")||(s.open=!1);break}}addEventListener("beforeunload",()=>sessionStorage.setItem("observablehq-sidebar-scrolly",`${e.scrollTop}`));const a=sessionStorage.getItem("observablehq-sidebar-scrolly");a!=null&&(e.style.cssText="overflow: hidden;",e.scrollTop=+a,e.style.cssText="");}</script>
+<div id="observablehq-center">
+<main id="observablehq-main" class="observablehq">
+<style>
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: var(--sans-serif);
+  margin: 4rem 0 4rem;
+  text-wrap: balance;
+  text-align: center;
+
+}
+
+.hero h1 {
+  margin: 2rem 0;
+  max-width: none;
+  font-size: 14vw;
+  font-weight: 900;
+  line-height: 1;
+  background: linear-gradient(30deg, var(--theme-foreground-focus), currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero h2 {
+  margin: 0;
+  max-width: 34em;
+  font-size: 20px;
+  font-style: initial;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--theme-foreground-muted);
+}
+
+.hero p {
+  color: var(--theme-foreground-muted);
+}
+
+@media (min-width: 640px) {
+  .hero h1 {
+    font-size: 75px;
+  }
+}
+
+</style>
+<div class="hero">
+    <h1>Offshore wind turbine installation: noise effects</h1>
+    <h2>Impact distances for marine mammal injury and behavioral disturbance</h2>
+    <br>
+    <p>These data are for demonstration purposes only. Dashboard by <a href="https://waveformanalytics.com" target="_blank" rel="noopener noreferrer">Waveform Analytics, LLC</a>.</p>
+</div>
+<div class="grid grid-cols-1">
+<div class="card">
+  <h1>Subset selections</h1>
+  <br>
+  <h2>Installation type</h2>
+  Wind turbines may be installed using either impact pile driving alone, or else a combination of impact and vibratory pile driving. 
+  <span id="cell-748f2510" class="observablehq--loading"></span>
+  <br>
+  <h2>Criteria</h2>
+  Impact ranges may be calculated using criteria describing the potential for either injury or behavioral disturbance. 
+  <span id="cell-9f57d8c1" class="observablehq--loading"></span>
+  <br>
+  <i>* Unless otherwise indicated, the plots below show a broadband attenuation level of <b>10dB</b>, and assume the <b>summer</b> sound speed profile.</i>
+</div>
+</div>
+<div class="grid grid-cols-2">
+  <div class="card grid-rowspan-2">
+  <h2>Impact distances for each species</h2>
+<p><span id="cell-b644610d" class="observablehq--loading"></span></p>
+  </div>
+  <div class="card">
+  <h2>Seasonal comparison</h2>
+  <p>The temperature structure of the water column changes from summer to winter, and that affects the sound propagation. This plot shows how impact distances differ between the two seasons.</p>
+<p><span id="cell-ee2e1e62" class="observablehq--loading"></span></p>
+  </div>
+  <div class="card  grid-rowspan-2">
+  <h2>Attenuation comparison</h2>
+  <p>To mitigate the effects of the pile driving sounds, different noise attenuation systems can be used to essentially muffle the sound and reduce the impact ranges. This plot shows how different broadband attenuation levels can reduce the impact ranges.</p>
+<p><span id="cell-65f74654" class="observablehq--loading"></span></p>
+  </div>
+  <div class="card">
+  <h2>Foundation comparison</h2>
+  <span id="cell-9a129368" class="observablehq--loading"></span>
+<p><i>Note: This plot format is based on <a href="https://observablehq.com/d/e34f190c55d77a97" target="_blank" rel="noopener noreferrer">a very nice example</a>
+by Tanya Shapiro</i></p>
+  </div>
+</div>
+<div id="cell-0a2fb4a9" class="observablehq observablehq--block"></div>
+<div id="cell-172e5b6e" class="observablehq observablehq--block"></div>
+<div id="cell-80e5ab12" class="observablehq observablehq--block"></div>
+<div id="cell-b9ade2ae" class="observablehq observablehq--block"></div>
+<div id="cell-8ffb29a6" class="observablehq observablehq--block"></div>
+<div id="cell-5f29a2a0" class="observablehq observablehq--block"></div>
+<div id="cell-7b7ff740" class="observablehq observablehq--block"></div>
+<div id="cell-929c782e" class="observablehq observablehq--block"></div>
+<div id="cell-57cfc80e" class="observablehq observablehq--block"></div>
+<div id="cell-597a7b15" class="observablehq observablehq--block"></div>
+<div id="cell-f92cbe6d" class="observablehq observablehq--block"></div>
+<div id="cell-a2288921" class="observablehq observablehq--block"></div>
+</main>
+<footer id="observablehq-footer">
+<nav><a rel="next" href="./background"><span>Background</span></a></nav>
+<div>© 2024 Waveform Analytics, LLC</div>
+</footer>
+</div>
